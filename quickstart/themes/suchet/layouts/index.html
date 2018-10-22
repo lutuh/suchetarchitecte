@@ -8,12 +8,12 @@
     <section class="section is-below-nav">
         <div class="container">
             <div class="columns">
-                <div class="column">
+                <div class="column image-column">
                     {{ range (first 10 $section) }}
                     <a href="{{.URL}}"> <figure class="image"><img src="{{.Params.featured_image}}"></figure>
                         <div>
-                            <span class="subtitle">{{ .Title }}</span>
-                            <p>Strasbourg (67)</p>
+                            <span class="subtitle">{{ .Description }}</span>
+                            <p>{{ .Title }}</p>
 
                         </div>
                     </a>
@@ -25,7 +25,7 @@
                     <a href="/#detail"> <figure class="image"><img src="/img/08.jpg"></figure> <div><span>Skyscraper project</span> </div> </a>
                     <a href="/#detail"> <figure class="image"><img src="/img/06.jpg"></figure> <div><span>Skyscraper project</span> </div> </a>
                 </div>
-                <div class="column">
+                <div class="column image-column">
                     <a href="/#detail"> <figure class="image"><img src="/img/03.jpg"></figure> <div><span>Skyscraper project</span> </div> </a>
                     <a href="/#detail"> <figure class="image"><img src="/img/05.jpg"></figure> <div><span>Skyscraper project</span> </div> </a>
                     <a href="/#detail"> <figure class="image"><img src="/img/07.jpg"></figure> <div><span>Skyscraper project</span> </div> </a>

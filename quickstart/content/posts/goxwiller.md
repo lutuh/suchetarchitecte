@@ -3,7 +3,7 @@ date: 2017-04-10T11:00:59-04:00
 description: "Extension et restructuration d’une école maternelle et élémentaire"
 featured_image: "img/DSC_1318_m_D_Web.jpg"
 tags: []
-title: "Goxwiller"
+title: "Goxwiller (67)"
 ---
 
 <p>Goxwiller (67)</p>

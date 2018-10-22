@@ -4,15 +4,15 @@
     src: url("/font/KozukaGothicProH.otf") format("opentype");
 }
 
-a {
+.image-column > a {
     position: relative;
     display: inline-block;
     margin-bottom: 2rem;
 }
-a > * {
+.image-column > a > * {
     transition: opacity .2s ease-in-out;
 }
-a > div {
+.image-column > a > div {
     position: absolute;
     top: 0;
     width: 100%;
@@ -21,7 +21,7 @@ a > div {
     background: #ffffffc4;
     padding: 2rem;
 }
-a:hover > div {
+.image-column > a:hover > div {
     opacity: 1;
 }
 
@@ -39,4 +39,9 @@ a:hover > div {
 
 .navbar-item img {
     max-height: inherit;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
 }

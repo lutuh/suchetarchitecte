@@ -25,7 +25,7 @@ a:hover > div {
     opacity: 1;
 }
 
-#css-landing-body {
+.is-below-nav {
     margin-top: 10rem;
 }
 
