@@ -10,10 +10,10 @@
             <div class="columns">
                 <div class="column image-column">
                     {{ range (first 10 $section) }}
-                    <a href="{{.URL}}"> <figure class="image"><img src="{{.Params.featured_image}}"></figure>
+                    <a href="{{.URL}}"> <figure class="image"><img src="/img/{{.Params.featured_image}}"></figure>
                         <div>
                             <span class="subtitle">{{ .Description }}</span>
-                            <p>{{ .Title }}</p>
+                            <p>{{ .Params.location }}</p>
 
                         </div>
                     </a>

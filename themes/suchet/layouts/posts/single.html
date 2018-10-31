@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+
+<section class="section is-below-nav">
+    <div class="container">
+        <div class="columns">
+            <div class="column is-half">
+
+                <figure class="image">
+                    <img src="/img/{{.Params.featured_image}}">
+                </figure>
+
+                <hr />
+
+                <h2 class="title is-4">{{.Description}}</h2>
+                <h3 class="subtitle is-6">{{.Params.location}}</h3>
+
+                <p class="color-green margin-bottom">Rénovation BBC</p>
+
+                <h4 class="title is-6">Maîtrise d’ouvrage :</h4>
+                <p class="subtitle is-6 is-spaced">{{.Params.client}}</p>
+
+                <h4 class="title is-6">Maîtrise d’œuvre :</h4>
+                <p class="subtitle is-6">{{.Params.builder}}</p>
+                <ul>
+
+                <dl>
+                    <dt>Date :</dt>
+                    <dd>{{.Params.period}}</dd>
+                    <dt>Surface :</dt>
+                    <dd>{{.Params.surface}}</dd>
+                    <dt>Coût des travaux :</dt>
+                    <dd>{{.Params.cost}}</dd>
+                </dl>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ end }}
