@@ -6,9 +6,11 @@
         <div class="columns">
             <div class="column is-half">
 
-                <figure class="image">
-                    <img src="/img/{{.Params.featured_image}}">
+                {{ range .Params.images }}
+                <figure class="image margin-bottom-2">
+                    <img src="/img/{{.}}">
                 </figure>
+                {{ end }}
 
                 <hr />
 
@@ -21,7 +23,11 @@
                 <p class="subtitle is-6 is-spaced">{{.Params.client}}</p>
 
                 <h4 class="title is-6">Maîtrise d’œuvre :</h4>
-                <p class="subtitle is-6">{{.Params.builder}}</p>
+                <p class="subtitle is-6">
+                    {{range .Params.builder}}
+                        {{ . }}<br />
+                    {{end}}
+                </p>
                 <ul>
 
                 <dl>
