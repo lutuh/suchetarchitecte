@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/posts/goxwiller/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/appartement17/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -16,11 +27,8 @@
   </url>
   
   <url>
-    <loc>http://example.org/posts/goxwiller/</loc>
-  </url>
-  
-  <url>
     <loc>http://example.org/posts/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

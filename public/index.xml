@@ -6,9 +6,28 @@
     <description>Recent content in Accueil on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goxwiller</title>
+      <link>http://example.org/posts/goxwiller/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goxwiller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appartement 17</title>
+      <link>http://example.org/posts/appartement17/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/appartement17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contact</title>
@@ -23,21 +42,13 @@ contact@suchet-architecte.fr</description>
     </item>
     
     <item>
-      <title>Goxwiller</title>
-      <link>http://example.org/posts/goxwiller/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/goxwiller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Presentation</title>
       <link>http://example.org/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/presentation/</guid>
-      <description>Texte de presentation</description>
+      <description>Aurélien SUCHET Architecte D.E (H.M.O.N.P)
+Parcours : 2018 : Architecte libéral à Strasbourg 2018 : Inscription à l&amp;rsquo;Ordre National des Architectes 2017 à avril 2018 : Architecte collaborateur salarié au sein de LOCUS Architectes à Strasbourg 2017 : Obtention de l&amp;rsquo;Habilitation à la Maîtrise d&amp;rsquo;Œuvre en son Nom Propre à l’ENSAS 2012 à 2017 : Architecte collaborateur salarié au sein de la l&amp;rsquo;agence d&amp;rsquo;architecture de N. Larché et N. Metzger à Strasbourg 2015 : Formation qualifiante « Eco-rénovation du bâti ancien » à l’INSA de Strasbourg 2012 : Diplômé d&amp;rsquo;Etat en Architecture à l’ENSAS Projet de Fin d’Etudes avec mention Très Bien : « Un nouvel Opéra pour la ville de Marseille » Études supérieures en architecture à l’ENSAS : Licence et Master 2011 : Agence N.</description>
     </item>
     
   </channel>
