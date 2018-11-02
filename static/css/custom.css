@@ -1,8 +1,9 @@
-
+/*
 @font-face {
     font-family: Kozuka;
     src: url("/font/KozukaGothicProH.otf") format("opentype");
 }
+*/
 
 .image-column > a {
     position: relative;
