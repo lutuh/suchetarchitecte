@@ -47,10 +47,6 @@
     align-items: center;
 }
 
-.color-green {
-    color: green;
-}
-
 dl > dt {
     float: left;
     font-weight: 600;
