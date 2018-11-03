@@ -27,7 +27,7 @@
 }
 
 .is-below-nav {
-    margin-top: 10rem;
+    margin-top: 5rem;
 }
 
 .navbar {
@@ -47,10 +47,6 @@
     align-items: center;
 }
 
-.color-green {
-    color: green;
-}
-
 dl > dt {
     float: left;
     font-weight: 600;
@@ -66,4 +62,10 @@ dl > dd {
 
 .margin-bottom-2 {
     margin-bottom: 2rem;
+}
+
+.navbar-burger {
+    zoom: 200%;
+    height: 4rem;
+    width: 4rem;
 }
