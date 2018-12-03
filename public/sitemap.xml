@@ -37,6 +37,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/confidentialite/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
