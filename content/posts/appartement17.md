@@ -9,9 +9,10 @@ period: "2018 – En cours"
 surface: "50 m²"
 cost: "-"
 images: [
-'appartment17/small/17RPL-DR_Persext_Web.jpg',
-'appartment17/small/2_AXOajour.jpg',
-'appartment17/small/3_FacadeSUD.jpg',
+'small/appartment17/17RPL-DR_Persext_Web.jpg',
+'small/appartment17/2_AXOajour.jpg',
+'small/appartment17/3_FacadeSUD.jpg',
+'small/appartment17/17RPL_vue_int_181219.jpg',
 ]
 ---
 

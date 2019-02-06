@@ -14,11 +14,11 @@ surface: "270 m²"
 cost: "1 420 000 € HT"
 bla: [1, 2, 3]
 images: [
-'goxwiller/small/DSC_1318_m_D_Web.jpg',
-'goxwiller/small/DSC_1313_m_D_Web.jpg',
-'goxwiller/small/DSC_1320_m_D_Web.jpg',
-'goxwiller/small/DSC_1322_m_D_Web.jpg',
-'goxwiller/small/DSC_1612_m_D_Web.jpg',
-'goxwiller/small/DSC_1622_m_D_Web.jpg',
+'small/goxwiller/DSC_1318_m_D_Web.jpg',
+'small/goxwiller/DSC_1313_m_D_Web.jpg',
+'small/goxwiller/DSC_1320_m_D_Web.jpg',
+'small/goxwiller/DSC_1322_m_D_Web.jpg',
+'small/goxwiller/DSC_1612_m_D_Web.jpg',
+'small/goxwiller/DSC_1622_m_D_Web.jpg',
 ]
 ---

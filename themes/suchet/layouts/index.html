@@ -9,6 +9,9 @@
         <div class="container">
             <div class="columns">
                 <div class="column is-half image-column">
+                    <figure class="image">
+                        <img src="/img/small/CVoeux_2019.jpg" alt="Voeux 2019">
+                    </figure>
                     {{ range (first 10 $section) }}
                     <a href="{{.URL}}"> <figure class="image"><img src="/img/{{index .Params.images 0}}"></figure>
                         <div>
