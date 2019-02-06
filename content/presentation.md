@@ -12,8 +12,6 @@ title: "Presentation"
 
 Architecte D.E (H.M.O.N.P)
 
-<br />
-
 #### Parcours :
 
 2018 : **Architecte libéral** à Strasbourg

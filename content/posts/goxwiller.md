@@ -7,10 +7,10 @@ client: "Commune de Goxwiller"
 builder: [
 'Agence N.Larché & N.Metzger, architectes d.pl.g.',
 'Chef de projet pour les phases : ESQ, APS, APD/PC, PRO, DCE, ACT, EXE/DET',
-'Echoes, SIB Etudes, Sedime, EFTE Ing., Fluid’IT'
+'Echoes, SIB Etudes, Sedime, EFT2E Ing., Fluid’IT TFC'
 ]
 period: "2015 - 2017"
-surface: "270 m²"
+surface: "720 m²"
 cost: "1 420 000 € HT"
 images: [
 'small/goxwiller/DSC_1318_m_D_Web.jpg',
@@ -21,3 +21,4 @@ images: [
 'small/goxwiller/DSC_1622_m_D_Web.jpg',
 ]
 ---
+rénovation BBC
