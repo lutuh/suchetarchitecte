@@ -5,9 +5,17 @@
 <section class="section is-below-nav">
     <div class="container">
         <div class="columns">
-            <div class="column is-half content">
+            <div class="column is-half">
 
-                {{.Content}}
+                {{ range .Params.images }}
+                <figure class="image margin-bottom-2">
+                    <img src="/img/{{.}}">
+                </figure>
+                {{ end }}
+
+                <div class="content">
+                    {{.Content}}
+                </div>
 
             </div>
         </div>

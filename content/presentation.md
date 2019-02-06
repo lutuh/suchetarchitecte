@@ -1,13 +1,9 @@
 ---
 title: "Presentation"
-
+images: [
+'small/DSC_0336-3.jpg',
+]
 ---
-
-<figure class="image margin-bottom-2">
-    <img src="/img/small/DSC_0336-3.jpg">
-</figure>
-
-
 #### Aurélien SUCHET
 
 Architecte D.E (H.M.O.N.P)
