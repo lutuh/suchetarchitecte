@@ -7,14 +7,16 @@ title: "Presentation"
     <img src="/img/small/DSC_0336-3.jpg">
 </figure>
 
-**Aurélien SUCHET**
+
+#### Aurélien SUCHET
 
 Architecte D.E (H.M.O.N.P)
 
-**Parcours :**
+<br />
+
+#### Parcours :
 
 2018 : **Architecte libéral** à Strasbourg
-
 2018 : Inscription à l'Ordre National des Architectes
 
 2017 à avril 2018 : Architecte collaborateur salarié au sein de **LOCUS Architectes** à Strasbourg

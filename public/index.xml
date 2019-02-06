@@ -35,10 +35,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/contact/</guid>
-      <description>2 rue Dotzinger
-67000 Strasbourg - France
-
-contact@suchet-architecte.fr</description>
+      <description>  2 rue Dotzinger
+67000 Strasbourg - France  contact@suchet-architecte.fr </description>
     </item>
     
     <item>
@@ -47,11 +45,9 @@ contact@suchet-architecte.fr</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/presentation/</guid>
-      <description>Aurélien SUCHET
-Architecte D.E (H.M.O.N.P)
-Parcours :
-2018 : Architecte libéral à Strasbourg
-2018 : Inscription à l&amp;rsquo;Ordre National des Architectes
+      <description>Aurélien SUCHET Architecte D.E (H.M.O.N.P)
+
+Parcours : 2018 : Architecte libéral à Strasbourg 2018 : Inscription à l&amp;rsquo;Ordre National des Architectes
 2017 à avril 2018 : Architecte collaborateur salarié au sein de LOCUS Architectes à Strasbourg
 2017 : Obtention de l&amp;rsquo;Habilitation à la Maîtrise d&amp;rsquo;Œuvre en son Nom Propre (H.MO.N.P) à l’ENSAS
 2015 : Formation qualifiante « Eco-rénovation du bâti ancien » à l’INSA de Strasbourg
@@ -64,7 +60,7 @@ Parcours :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/confidentialite/</guid>
-      <description>Politique de confidentialité  Nous sommes ravis que vous exprimez de l&#39;intérêt pour notre entreprise. La protection des données est une priorité très élevée du management de Suchet Architecte. L&#39; utilisation des pages Internet de Suchet Architecte est possible sans aucune indication des données à caractère personnel. Cependant, si une personne concernée veux utiliser des services d&#39;entreprise spéciaux via notre page Internet, le traite des données à caractère personnel pourrait devenir nécessaire.</description>
+      <description>Nous sommes ravis que vous exprimiez de l&amp;rsquo;intérêt pour notre entreprise. La protection des données est une priorité très élevée du management de Suchet Architecte. L&amp;rsquo; utilisation des pages Internet de Suchet Architecte est possible sans aucune indication des données à caractère personnel. Cependant, si une personne concernée veux utiliser des services d&amp;rsquo;entreprise spéciaux via notre page Internet, le traitement des données à caractère personnel pourrait devenir nécessaire. Si le traitement des données à caractère personnel est nécessaire et il n&amp;rsquo;y existe pas de base légale de tel traitement, nous acquérons généralement le consentement de la personne concernée.</description>
     </item>
     
   </channel>
