@@ -12,7 +12,6 @@ builder: [
 period: "2015 - 2017"
 surface: "270 m²"
 cost: "1 420 000 € HT"
-bla: [1, 2, 3]
 images: [
 'small/goxwiller/DSC_1318_m_D_Web.jpg',
 'small/goxwiller/DSC_1313_m_D_Web.jpg',
