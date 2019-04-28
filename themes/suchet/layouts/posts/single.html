@@ -12,34 +12,40 @@
                 </figure>
                 {{ end }}
 
-                <hr />
+                <hr/>
 
                 <h2 class="title is-4">{{.Description}}</h2>
                 <h3 class="subtitle is-6">{{.Params.location}}</h3>
 
-                <div class="content">
+                <div class="content has-text-justified">
                     {{.Content}}
                 </div>
 
-                <h4 class="title is-6">Maîtrise d’ouvrage :</h4>
-                <p class="subtitle is-6 is-spaced">{{.Params.client}}</p>
+                {{ if .Params.client }}
+                    <h4 class="title is-6">Maîtrise d’ouvrage :</h4>
+                    <p class="subtitle is-6 is-spaced">{{.Params.client}}</p>
+                {{ end }}
 
                 <h4 class="title is-6">Maîtrise d’œuvre :</h4>
                 <p class="subtitle is-6">
                     {{range .Params.builder}}
-                        {{ . }}<br />
+                    {{ . }}<br/>
                     {{end}}
                 </p>
                 <ul>
 
-                <dl>
-                    <dt>Date :</dt>
-                    <dd>{{.Params.period}}</dd>
-                    <dt>Surface :</dt>
-                    <dd>{{.Params.surface}}</dd>
-                    <dt>Coût des travaux :</dt>
-                    <dd>{{.Params.cost}}</dd>
-                </dl>
+                    <dl>
+                        <dt>Date :</dt>
+                        <dd>{{.Params.period}}</dd>
+                        {{ if .Params.surface }}
+                        <dt>Surface :</dt>
+                        <dd>{{.Params.surface}}</dd>
+                        {{ end }}
+                        {{ if .Params.cost }}
+                        <dt>Coût des travaux :</dt>
+                        <dd>{{.Params.cost}}</dd>
+                        {{ end }}
+                    </dl>
 
             </div>
         </div>

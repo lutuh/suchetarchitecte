@@ -8,12 +8,12 @@
             <div class="column is-half">
 
                 {{ range .Params.images }}
-                <figure class="image margin-bottom-2">
+                <figure class="image margin-bottom-2 {{ $.Params.image_extra_css }}">
                     <img src="/img/{{.}}">
                 </figure>
                 {{ end }}
 
-                <div class="content">
+                <div class="content has-text-justified">
                     {{.Content}}
                 </div>
 
