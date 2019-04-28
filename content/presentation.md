@@ -3,6 +3,7 @@ title: "Presentation"
 images: [
 'small/DSC_0336-3.jpg',
 ]
+image_extra_css: 'width-narrow'
 ---
 #### Aurélien SUCHET
 
