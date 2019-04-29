@@ -69,3 +69,7 @@ dl > dd {
     height: 4rem;
     width: 4rem;
 }
+
+.width-narrow {
+    width: 60%;
+}

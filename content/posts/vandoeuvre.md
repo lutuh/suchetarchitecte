@@ -1,4 +1,5 @@
 ﻿﻿---
+publishdate: 2019-04-27
 title: "Vandoeuvre-lès-nancy"
 description: "Construction d’une restauration scolaire et d’un auditorium à l’école de musique au sein du groupe scolaire Jeanne d’Arc"
 location: "Vandoeuvre-lès-nancy (54)"
