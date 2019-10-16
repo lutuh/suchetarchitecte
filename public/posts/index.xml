@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Test</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appartement 17</title>
+      <link>http://example.org/posts/appartement17/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/appartement17/</guid>
+      <description>Le projet consiste à aménager un appartement de 50m² dans un grenier au sein d&amp;rsquo;un corps de ferme alsacien traditionnel. Après avoir « joué » avec les nombreuses contraintes, il en résulte un logement de caractère. Des ouvertures sont créées en façade SUD permettant de profiter de l&amp;rsquo;exposition et d’une vue sur le jardin. La façade NORD quant à elle ne subit aucune modification ce qui préserve l&amp;rsquo;esthétique existante de la cour du corps de ferme.</description>
+    </item>
+    
+    <item>
+      <title>La Forge</title>
+      <link>http://example.org/posts/la_forge/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/la_forge/</guid>
+      <description>Concours : &amp;ldquo;Projet non lauréat&amp;rdquo;
+Voici notre proposition pour la requalification de la forge à Rixheim. Un projet de revalorisation du patrimoine tout en conservation.</description>
+    </item>
+    
+    <item>
+      <title>Vandoeuvre-lès-nancy</title>
+      <link>http://example.org/posts/vandoeuvre/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/vandoeuvre/</guid>
+      <description>Concours : &amp;ldquo;Projet non lauréat&amp;rdquo;
+Le projet d’extension se veut ouvert sur le quartier, il a pour vocation de donner à voir les activités qui s’y déroulent. En effet, il s’agit de mettre en avant l’école de musique dans l’espace public en bordant le Square des droits de l’enfant, cœur animé du quartier. Cette implantation permet à la fois de limiter l’impact de l’extension sur le bâtiment existant, notamment en ne masquant pas les salles de classes et limiter l’impact sur la surface de cour de récréation.</description>
+    </item>
+    
+    <item>
+      <title>Calamity Atelier</title>
+      <link>http://example.org/posts/artesella/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/artesella/</guid>
+      <description>Dans le respect du site du parc d&amp;rsquo;art contemporain Arte Sella, notre projet avait pour ambition de répondre au programme tout en explorant une manière de construire avec le moins d&amp;rsquo;impact sur le sol et le paysage.</description>
+    </item>
+    
+    <item>
+      <title>7AF</title>
+      <link>http://example.org/posts/7af/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/7af/</guid>
+      <description>Le projet consiste à réaménager « une maison » dans une bâtisse existante divisée en deux appartements, un à chaque niveau. La difficulté a été, dans un budget contraint, de connecter les deux niveaux à travers la cage d’escalier tout en favorisant le confort d’usage et en caractérisant les différents espaces. Les trois versions proposent une requalification progressive allant de « peu de modifications » pour la version 1 à « modifications conséquentes » pour la version 3.</description>
+    </item>
+    
+    <item>
+      <title>Goxwiller</title>
+      <link>http://example.org/posts/goxwiller/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/goxwiller/</guid>
+      <description>rénovation BBC</description>
+    </item>
+    
+    <item>
+      <title>FER</title>
+      <link>http://example.org/posts/fer/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PFE</title>
+      <link>http://example.org/posts/pfe/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pfe/</guid>
+      <description>Mon projet se situe en plein cœur d’Euroméditerranée, dans la bande qui compose la partie la plus importante du projet urbain. Cette bande qui relie le Fort Saint-Jean à la tour CMA-CGM est contrainte par l’autoroute A55 qui lui donne sa forme et son sens. Cette bande abrite la majeure partie des édifices emblématiques d’Euroméditerranée et les relie par un boulevard piéton, ainsi en suivant la promenade depuis le Vieux Port, on croise le MUCEM et le CEREM qui s’articulent avec le Fort Saint Jean fraîchement réhabilité et le parvis de la Cathédrale de la Major enfin désenclavée.</description>
+    </item>
+    
+  </channel>
+</rss>
