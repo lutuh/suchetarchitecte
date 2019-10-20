@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/posts/appartement11/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/vandoeuvre/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
