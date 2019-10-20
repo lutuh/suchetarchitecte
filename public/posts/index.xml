@@ -31,6 +31,15 @@ Voici notre proposition pour la requalification de la forge à Rixheim. Un proje
     </item>
     
     <item>
+      <title>Appartement 3</title>
+      <link>http://example.org/posts/appartement3/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/appartement3/</guid>
+      <description>La rénovation de ce duplex permet d’unifier l’espace de vie et d’accentuer l’aspect traversant de l’appartement pour favoriser la lumière et la ventilation naturelle. L’une des volontés est également d’optimiser le grand vestibule existant afin de réussir à « l’habiter » sans le séparer du reste de l’appartement.</description>
+    </item>
+    
+    <item>
       <title>Vandoeuvre-lès-nancy</title>
       <link>http://example.org/posts/vandoeuvre/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
