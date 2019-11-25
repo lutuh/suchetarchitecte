@@ -81,3 +81,7 @@ dl > dd {
 .pswp__ui--fit .pswp__top-bar, .pswp__ui--fit .pswp__caption, .pswp__button--arrow--left:before, .pswp__button--arrow--right:before {
     background-color: #00000080;
 }
+
+.image img.js-lazy {
+    width: 660px;
+}

@@ -7,6 +7,11 @@ done
 
 find . -name "*.jpg" ! -path "*small*" ! -path "*large*" | while read file; do
     echo $file;
+    # Create tiny version
+    dir=$(dirname $file)
+    mkdir -p "tiny/$dir"
+    convert -resize 100x "$file" "tiny/$file"
+    continue
     # Create small version
     dir=$(dirname $file)
     mkdir -p "small/$dir"
