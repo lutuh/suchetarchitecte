@@ -9,11 +9,11 @@ period: "2019"
 surface: "128 m²"
 cost: "-"
 images: [
-'small/appartement11/Pers_AA.jpg',
-'small/appartement11/Pers_CC.jpg',
-'small/appartement11/axo_nb.jpg',
-'small/appartement11/Coupe.jpg',
-'small/appartement11/facade_sud.jpg',
+'appartement11/Pers_AA.jpg',
+'appartement11/Pers_CC.jpg',
+'appartement11/axo_nb.jpg',
+'appartement11/Coupe.jpg',
+'appartement11/facade_sud.jpg',
 ]
 ---
 

@@ -10,7 +10,7 @@
             <div class="columns">
                 <div class="column is-half image-column">
                     {{ range (first 10 $section) }}
-                    <a href="{{.URL}}"> <figure class="image"><img src="/img/{{index .Params.images 0}}"></figure>
+                    <a href="{{.URL}}"> <figure class="image"><img src="/img/small/{{index .Params.images 0}}"></figure>
                         <div>
                             <span class="subtitle">{{ .Description }}</span>
                             <p>{{ .Params.location }}</p>

@@ -9,7 +9,7 @@ period: "2018"
 surface: "400 m²"
 cost: "1 600 000 € HT"
 images: [
-'small/vandoeuvre/1_VAND_Perspective_L.jpg',
+'vandoeuvre/1_VAND_Perspective_L.jpg',
 ]
 ---
 Concours : "Projet non lauréat"

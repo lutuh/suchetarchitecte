@@ -13,12 +13,12 @@ period: "2015 - 2017"
 surface: "720 m²"
 cost: "1 420 000 € HT"
 images: [
-'small/goxwiller/DSC_1318_m_D_Web.jpg',
-'small/goxwiller/DSC_1313_m_D_Web.jpg',
-'small/goxwiller/DSC_1320_m_D_Web.jpg',
-'small/goxwiller/DSC_1322_m_D_Web.jpg',
-'small/goxwiller/DSC_1612_m_D_Web.jpg',
-'small/goxwiller/DSC_1622_m_D_Web.jpg',
+'goxwiller/DSC_1318_m_D_Web.jpg',
+'goxwiller/DSC_1313_m_D_Web.jpg',
+'goxwiller/DSC_1320_m_D_Web.jpg',
+'goxwiller/DSC_1322_m_D_Web.jpg',
+'goxwiller/DSC_1612_m_D_Web.jpg',
+'goxwiller/DSC_1622_m_D_Web.jpg',
 ]
 ---
 rénovation BBC

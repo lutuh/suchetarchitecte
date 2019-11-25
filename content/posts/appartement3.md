@@ -9,9 +9,9 @@ period: "2019"
 surface: "176 m²"
 cost: "-"
 images: [
-'small/appartement3/3RLGS_ESQ_Vue_int.jpg',
-'small/appartement3/Axo_filaire_insta2_190930.jpg',
-'small/appartement3/Axo_filaire_nh_191015.jpg',
+'appartement3/3RLGS_ESQ_Vue_int.jpg',
+'appartement3/Axo_filaire_insta2_190930.jpg',
+'appartement3/Axo_filaire_nh_191015.jpg',
 ]
 ---
 

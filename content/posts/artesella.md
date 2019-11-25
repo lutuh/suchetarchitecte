@@ -9,13 +9,13 @@ period: "2019"
 surface: "-"
 cost: "-"
 images: [
-'small/artesella/CA_Planche_1.jpg',
-'small/artesella/CA_Planche_2.jpg',
-'small/artesella/CA_Planche_3.jpg',
-'small/artesella/CA_Planche_4.jpg',
-'small/artesella/CA_Planche_5.jpg',
-'small/artesella/CA_Planche_6.jpg',
-'small/artesella/CA_Planche_7.jpg',
+'artesella/CA_Planche_1.jpg',
+'artesella/CA_Planche_2.jpg',
+'artesella/CA_Planche_3.jpg',
+'artesella/CA_Planche_4.jpg',
+'artesella/CA_Planche_5.jpg',
+'artesella/CA_Planche_6.jpg',
+'artesella/CA_Planche_7.jpg',
 ]
 ---
 
