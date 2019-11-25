@@ -22,5 +22,9 @@ if ($navbarBurgers.length > 0) {
 });
 }
 
+var lazyLoadInstance = new LazyLoad({
+    elements_selector: ".js-lazy"
+});
+
 });
 
