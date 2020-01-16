@@ -6,10 +6,20 @@
     <description>Recent content in Accueil on Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Musée mémorial du Linge</title>
+      <link>http://example.org/posts/linge/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/linge/</guid>
+      <description>Concours : &amp;ldquo;Projet non lauréat&amp;rdquo;
+Voici notre proposition pour l&amp;rsquo;extension du bâtiment du Musée-mémorial du Linge.</description>
+    </item>
     
     <item>
       <title>Appartement 17</title>
