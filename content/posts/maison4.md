@@ -1,0 +1,18 @@
+---
+publishdate: 2019-10-14
+title: "Maison 4"
+description: "Maison 4"
+location: "Oberhausbergen (67)"
+client: "Privée"
+builder: ["Aurélien SUCHET Architecte"]
+period: "2019"
+surface: "150 m²"
+cost: "-"
+images: [
+'maison4/4ARCO_AXO_2.jpg',
+'maison4/4ARCO_AXO_1.jpg',
+'maison4/4ARCO_AXO_3.jpg',
+'maison4/4ARCO_Bande_matériaux_200330.jpg',
+]
+---
+Les bâtiments existants servant comme atelier et stockage pour l’activité artisanale du maître d’ouvrage seront partiellement démolis et rénovés afin de les transformer en une maison avec jardin. Jouer avec les contraintes existantes a mené à un projet avec beaucoup de caractère dans un esprit « maison à patio ».
