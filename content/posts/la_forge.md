@@ -19,5 +19,4 @@ images: [
 ---
 Concours : "Projet non lauréat"
 
-Voici notre proposition pour la requalification de la forge à Rixheim.
-Un projet de revalorisation du patrimoine tout en conservation.
+Le projet avait pour but de valoriser l’ancienne forge du cœur de Rixheim à travers un lieu de mixité sociale pouvant accueillir un service de restauration et des événements culturels. Nous avons souhaité conserver l’esprit du bâtiment existant en limitant l’impact de notre intervention, notamment pour la desserte de l’étage qui se fait au cœur du bâti sans conflit avec la toiture. Le plateau supérieur était décollé des façades pour favoriser l’éclairage naturel et se reposait sur une nouvelle structure bois qui renforçait l’ancienne.

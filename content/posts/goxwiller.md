@@ -21,4 +21,4 @@ images: [
 'goxwiller/DSC_1622_m_D_Web.jpg',
 ]
 ---
-rénovation BBC
+Le bâtiment existant a subi une restructuration lourde afin d’atteindre les exigences d’une rénovation BBC tout en conservant son aspect extérieur. L’extension se compose de plusieurs volumes construits afin de s’intégrer dans le tissu urbain historique du centre bourg.
