@@ -18,4 +18,4 @@ images: [
 ---
 Concours : "Projet non lauréat"
 
-Voici notre proposition pour l'extension du bâtiment du Musée-mémorial du Linge. 
+Le musée mémorial du Linge survit grâce à des bénévoles et aux recettes des visites. Ainsi, l’Association du Mémorial du Linge souhaitait réaliser une extension afin de faciliter l’accueil des visiteurs par les bénévoles tout en proposant une boutique. Intervenir sur cet édifice n’était pas anodin tant le site est chargé d’Histoire. Nous avons proposé une extension sobre et dans la continuité de l’existant à travers l’utilisation de proportions, d’ambiances et de matériaux déjà présents. Des matériaux et des mises en œuvre adaptés aux contraintes du site ont été favorisés.
