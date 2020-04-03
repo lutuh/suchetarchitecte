@@ -1,10 +1,3 @@
-/*
-@font-face {
-    font-family: Kozuka;
-    src: url("/font/KozukaGothicProH.otf") format("opentype");
-}
-*/
-
 .image-column > * {
     position: relative;
     display: inline-block;
@@ -36,6 +29,11 @@
 
 .navbar-brand {
     font-family: Kozuka,Arial,sans-serif;
+}
+
+.navbar-menu:not(.is-active) .navbar-item {
+    padding-top: 0;
+    padding-bottom: 1rem;
 }
 
 .navbar-item img {
@@ -71,7 +69,7 @@ dl > dd {
 }
 
 .width-narrow {
-    width: 60%;
+    width: 40%;
 }
 
 .pswp__bg {
