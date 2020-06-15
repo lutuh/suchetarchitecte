@@ -4,6 +4,7 @@ images: [
 'small/DSC_0336-3.jpg',
 ]
 image_extra_css: 'width-narrow'
+metadesc: "Aurélien Suchet, Architecte libéral depuis 2018"
 ---
 #### Aurélien SUCHET
 

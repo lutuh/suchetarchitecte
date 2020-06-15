@@ -1,5 +1,5 @@
 ---
 title: "Accueil"
-metadesc: "Architecte D.E (H.M.O.N.P), Architecte libéral à Strasbourg"
+metadesc: "Aurélien Suchet, Architecte en Alsace, rénovation et construction neuve pour tous, conception environnementale pour une architecture durable"
 
 ---

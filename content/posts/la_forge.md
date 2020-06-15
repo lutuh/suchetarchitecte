@@ -16,6 +16,7 @@ images: [
 'la_forge/NB_Plan_RDC.jpg',
 'la_forge/NB_Coupe.jpg',
 ]
+metadesc: "Concours portant sur la requalification de l’ancienne forge au cœur de Rixheim avec une approche de valorisation du patrimoine."
 ---
 Concours : "Projet non lauréat"
 

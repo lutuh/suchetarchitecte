@@ -11,6 +11,7 @@ cost: "1 600 000 € HT"
 images: [
 'vandoeuvre/1_VAND_Perspective_L.jpg',
 ]
+metadesc: "Concours portant sur la construction d’une restauration scolaire et d’un auditorium à l’école de musique au sein du groupe scolaire Jeanne d’Arc à Vandoeuvre-lès-Nancy."
 ---
 Concours : "Projet non lauréat"
 

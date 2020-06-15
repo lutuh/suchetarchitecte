@@ -1,6 +1,6 @@
 ---
 title: "Règles de confidentialité"
-
+metadesc: "Aurélien Suchet, Architecte en Alsace"
 ---
 
 Nous sommes ravis que vous exprimiez de l'intérêt pour notre entreprise. La protection des données est une priorité très élevée du management de Suchet Architecte. L' utilisation des pages Internet de Suchet Architecte est possible sans aucune indication des données à caractère personnel. Cependant, si une personne concernée veux utiliser des services d'entreprise spéciaux via notre page Internet, le traitement des données à caractère personnel pourrait devenir nécessaire. Si le traitement des données à caractère personnel est nécessaire et il n'y existe pas de base légale de tel traitement, nous acquérons généralement le consentement de la personne concernée.

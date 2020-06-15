@@ -15,6 +15,7 @@ images: [
 'linge/Plan_RDC.jpg',
 'linge/Plan_masse.jpg',
 ]
+metadesc: "Concours portant sur l’extension du Musée-mémorial du Linge situé sur les hauteurs d’Orbey dans le massif des Vosges."
 ---
 Concours : "Projet non lauréat"
 

@@ -16,6 +16,7 @@ images: [
 'appartement3/Axo_filaire_nh_191015.jpg',
 'appartement3/3RLGS_Palette_matéiaux_A.jpg',
 ]
+metadesc: "Rénovation complète d’un appartement duplex situé à Strasbourg, mission conception."
 ---
 
 La rénovation de ce duplex permet d’unifier l’espace de vie et d’accentuer l’aspect traversant de l’appartement pour favoriser la lumière et la ventilation naturelle. L’une des volontés est également d’optimiser le grand vestibule existant afin de réussir à « l’habiter » sans le séparer du reste de l’appartement.

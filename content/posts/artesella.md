@@ -17,6 +17,7 @@ images: [
 'artesella/CA_Planche_6.jpg',
 'artesella/CA_Planche_7.jpg',
 ]
+metadesc: "Proposition architecturale et paysagère pour le développement de nouveaux lieux de pratique artistique dans le parc Arte Sella à Borgo Valsugana en Italie."
 ---
 
 Dans le respect du site du parc d'art contemporain Arte Sella, notre projet avait pour ambition de répondre au programme tout en explorant une manière de construire avec le moins d'impact sur le sol et le paysage.

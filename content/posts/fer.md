@@ -14,4 +14,5 @@ images: [
 'fer/FER_vue_2a.jpg',
 'fer/FER_vue_1a.jpg',
 ]
+metadesc: "Proposition architecturale pour la création d’une école de musique et d’une halle de marché à Ferrette."
 ---

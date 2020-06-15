@@ -15,5 +15,6 @@ images: [
 'maison4/4ARCO_Bande_matériaux_200403.jpg',
 ]
 featured_image_id: 1
+metadesc: "Transformation et réhabilitation d’ateliers en une maison individuelle située à Oberhausbergen."
 ---
 Les bâtiments existants servant comme atelier et stockage pour l’activité artisanale du maître d’ouvrage seront partiellement démolis et rénovés afin de les transformer en une maison avec jardin. Jouer avec les contraintes existantes a mené à un projet avec beaucoup de caractère dans un esprit « maison à patio ».

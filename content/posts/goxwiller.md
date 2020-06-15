@@ -20,5 +20,6 @@ images: [
 'goxwiller/DSC_1612_m_D_Web.jpg',
 'goxwiller/DSC_1622_m_D_Web.jpg',
 ]
+metadesc: "Ecole maternelle et élémentaire de Goxwiller, extension et réhabilitation BBC au cœur de la commune alsacienne de Goxwiller."
 ---
 Le bâtiment existant a subi une restructuration lourde afin d’atteindre les exigences d’une rénovation BBC tout en conservant son aspect extérieur. L’extension se compose de plusieurs volumes construits afin de s’intégrer dans le tissu urbain historique du centre bourg.
