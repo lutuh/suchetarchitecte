@@ -20,7 +20,7 @@
 }
 
 .is-below-nav {
-    margin-top: 5rem;
+    margin-top: 8rem;
 }
 
 .navbar {
@@ -34,6 +34,10 @@
 .navbar-menu:not(.is-active) .navbar-item {
     padding-top: 0;
     padding-bottom: 1rem;
+}
+
+.font-3rem {
+    font-size: 3rem;
 }
 
 .navbar-item img {

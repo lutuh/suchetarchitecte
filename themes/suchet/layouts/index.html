@@ -12,7 +12,7 @@
                     {{ range (first 20 $section) }}
                     {{ $featuredImageId := .Params.featured_image_id | default 0 }}
                     {{ $filePathRelative := index .Params.images $featuredImageId }}
-                    <a href="{{.URL}}">
+                    <a href="{{.RelPermalink}}">
                         <figure class="image"><img class="js-lazy" src="/img/tiny/{{$filePathRelative}}"
                                                    data-src="/img/small/{{$filePathRelative}}"></figure>
                         <div>

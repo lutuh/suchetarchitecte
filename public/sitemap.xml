@@ -1,98 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/linge/</loc>
+    <loc>https://atelier-ashe.fr/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/appartement17/</loc>
+    <loc>https://atelier-ashe.fr/posts/linge/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atelier-ashe.fr/posts/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atelier-ashe.fr/posts/appartement17/</loc>
     <lastmod>2019-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/la_forge/</loc>
+    <loc>https://atelier-ashe.fr/posts/la_forge/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/maison4/</loc>
+    <loc>https://atelier-ashe.fr/posts/maison4/</loc>
     <lastmod>2019-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/appartement3/</loc>
+    <loc>https://atelier-ashe.fr/posts/appartement3/</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/appartement11/</loc>
+    <loc>https://atelier-ashe.fr/posts/appartement11/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/vandoeuvre/</loc>
+    <loc>https://atelier-ashe.fr/posts/vandoeuvre/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/artesella/</loc>
+    <loc>https://atelier-ashe.fr/posts/artesella/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/7af/</loc>
+    <loc>https://atelier-ashe.fr/posts/7af/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/goxwiller/</loc>
+    <loc>https://atelier-ashe.fr/posts/goxwiller/</loc>
     <lastmod>2019-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/fer/</loc>
+    <loc>https://atelier-ashe.fr/posts/fer/</loc>
     <lastmod>2019-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/pfe/</loc>
+    <loc>https://atelier-ashe.fr/posts/pfe/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+    <loc>https://atelier-ashe.fr/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/categories/</loc>
-    <priority>0</priority>
+    <loc>https://atelier-ashe.fr/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/contact/</loc>
+    <loc>https://atelier-ashe.fr/presentation/</loc>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/posts/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://atelier-ashe.fr/confidentialite/</loc>
   </url>
   
   <url>
-    <loc>https://www.suchet-architecte.fr/presentation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.suchet-architecte.fr/confidentialite/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.suchet-architecte.fr/tags/</loc>
-    <priority>0</priority>
+    <loc>https://atelier-ashe.fr/tags/</loc>
   </url>
   
 </urlset>

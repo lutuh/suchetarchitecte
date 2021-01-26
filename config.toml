@@ -1,4 +1,4 @@
-baseURL = "https://www.suchet-architecte.fr/"
+baseURL = "https://atelier-ashe.fr/"
 languageCode = "fr"
-title = "Suchet Architecte"
+title = "atelier aSHe"
 theme = "suchet"
