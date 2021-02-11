@@ -1,51 +1,17 @@
 ---
 title: "Presentation"
 images: [
-'small/DSC_0336-3.jpg',
+
 ]
 image_extra_css: 'width-narrow'
 metadesc: "Aurélien Suchet, Architecte libéral depuis 2018"
 ---
-#### Aurélien SUCHET
-
-Architecte D.E (H.M.O.N.P)
+#### Aurélien SUCHET et Esther HENNA
 
 #### Parcours :
 
 2018 : **Architecte libéral** à Strasbourg
-2018 : Inscription à l'Ordre National des Architectes
 
-2017 à avril 2018 : Architecte collaborateur salarié au sein de **LOCUS Architectes** à Strasbourg
-
-2017 : Obtention de l'Habilitation à la Maîtrise d'Œuvre en son Nom Propre (H.MO.N.P) à l’ENSAS
-
-2015 : Formation qualifiante « **Eco-rénovation du bâti ancien** » à l’INSA de Strasbourg
-
-2012 à 2017 : Architecte collaborateur salarié au sein de la l'agence d'architecture
-
-de **N. Larché et N. Metzger** à Strasbourg
-
-2012 : Diplômé d'Etat en Architecture à l’ENSAS
-
-**Projet de Fin d’Etudes avec mention Très Bien :**
-
-**_« Un nouvel Opéra pour la ville de Marseille »_**
-
-Études supérieures en architecture à l’ENSAS : Licence et Master
-
-
-
-2011 : Agence d'architecture N. Larché et N. Metzger, architectes d.p.l.g à Strasbourg
-
-2011 : **Atelier Moleskine** Architectes à Rosheim
-
-2010 : **Pinkélé Architecte** à Schirmeck
-
-
-
-2007 : Diplôme de Brevet de Technicien Collaborateur d'Architecte
-
-Études secondaires au Lycée Le Corbusier à Illkirch-Graffenstaden
 
 
 <figure class="image">
