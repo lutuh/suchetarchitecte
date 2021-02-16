@@ -6,26 +6,13 @@ images: [
 image_extra_css: 'width-narrow'
 metadesc: "Aurélien Suchet, Architecte libéral depuis 2018"
 ---
-#### Aurélien SUCHET et Esther HENNA
+####  Esther HENNA et Aurélien SUCHET
 
-#### Parcours :
-
-2018 : **Architecte libéral** à Strasbourg
-
-
-
-<figure class="image">
-    <img src="/img/small/crokaxe.png">
-</figure>
+#### L’atelier aSHe est né en 2021, il est le fruit d’une étroite collaboration de plusieurs années entre Esther Henna et Aurélien Suchet, tous deux architectes.   
 
 **L’architecture :**
 
-Mon expérience me permet dorénavant d’aborder un projet à travers une réflexion globale. Qu’il s’agisse d’une extension, d’une rénovation d’un appartement ou la construction neuve d’une maison ou d’un équipement, mon but est d’intégrer toutes les contraintes actuelles et d’anticiper les futures afin de concevoir un projet adapté aux besoins de chacun. Par une démarche personnalisée, mon objectif est d’apporter mon savoir-faire afin de contribuer à la création d’un projet unique et durable.
+Nos expériences en marchés public et privé nous ont appris à concevoir des espaces optimisés et adaptés au mode de vie de chacun, le plus souvent avec des contraintes patrimoniales et économiques. Nous avons la chance de pouvoir travailler sur des programmes divers et aux échelles variées ce qui nous permet d’aborder chaque nouveau projet sans idée préconçue mais où tout est à imaginer. La démarche se caractérise par la recherche d’une fonctionnalité des espaces ainsi qu’une volonté rationnelle, entre qualité d’ambiances et économies de moyens. Nous essayons d’anticiper l’ensemble des contraintes qui peuvent s’appliquer aux différents éléments de construction (mise en œuvre, intempéries, usures, entretiens, réparations, recyclages, etc…). Notre volonté est ainsi d’entreprendre une réflexion la plus globale possible, notamment dans le cas d’une rénovation. De ce fait, les pathologies éventuelles du bâti sont abordées et intégrées au programme, au même titre que la conception des espaces, l’aménagement, la signalétique et la technique. 
 
-Les notions qui me semblent primordiales dans ma pratique sont l’Espace, le Détail et l’Environnement.
+Un espace réussi n’est pas que le fruit d’un « beau geste », c’est avant tout un lieu où l’on se sent bien, ainsi nous avons à cœur de créer des espaces caractérisés et agréables à vivre au quotidien où la lumière naturelle et les échappées visuelles sont constamment présentes.
 
-« **L’Espace** » doit être caractérisé et lumineux, mais avant tout être adapté aux modes d’habiter de chacun et ce, pour l’ensemble des lieux de vie.
-
-« **Le Détail** » demande un travail de conception plus abouti par un dessin spécifique de chaque élément constructif contribuant ainsi à magnifier les Espaces.
-
-« **L’Environnement** » dans ses différentes définitions, doit faire partie intégrante de la conception, y penser lors des premiers coups de crayon permet de réduire l'impact du projet lors de la construction mais aussi dans ses usages.
