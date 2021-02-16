@@ -4,7 +4,7 @@ images: [
 
 ]
 image_extra_css: 'width-narrow'
-metadesc: "Aurélien Suchet, Architecte libéral depuis 2018"
+metadesc: "atelier aSHe, Architectes libérals"
 ---
 
 **L’atelier aSHe est né en 2021, il est le fruit d’une étroite collaboration de plusieurs années entre Esther Henna et Aurélien Suchet, tous deux architectes.**   
