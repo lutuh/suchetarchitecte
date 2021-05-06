@@ -4,7 +4,7 @@ title: "Vandoeuvre-lès-nancy"
 description: "Construction d’une restauration scolaire et d’un auditorium à l’école de musique au sein du groupe scolaire Jeanne d’Arc"
 location: "Vandoeuvre-lès-nancy (54)"
 client: "Ville de Vandoeuvre-lès-nancy"
-builder: ['Aurélien Suchet architecte mandataire', 'Esther Henna Architecte associée', 'RB Economie', 'SIB Etudes', 'EFTE Ing.', 'Fluid’IT', 'ESP Acoustique']
+builder: ['Aurélien Suchet Architecte mandataire', 'Esther Henna Architecte associée', 'RB Economie', 'SIB Etudes', 'EFTE Ing.', 'Fluid’IT', 'ESP Acoustique']
 period: "2018"
 surface: "400 m²"
 cost: "1 600 000 € HT"
