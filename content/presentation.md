@@ -10,6 +10,8 @@ metadesc: "atelier aSHe, Architectes libres"
 **L’atelier aSHe est né en 2021, il est le fruit d’une étroite collaboration de plusieurs années entre Esther Henna et Aurélien Suchet, tous deux architectes.**   
 
 
+**Marie-Wandrille Barrate** architecte DE a rejoint l'atelier début 2021.  
+
 
 **L’architecture :**
 
