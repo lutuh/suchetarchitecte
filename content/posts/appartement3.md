@@ -9,7 +9,7 @@ period: "2020"
 surface: "66 m²"
 cost: "-"
 images: [
-'appartement3/3RLGS_Salon_1_200331_DEF.jpg',
+'DSC_3826_Ma.jpg',
 'appartement3/3RLGS_Salon_2_200331_DEF.jpg',
 'appartement3/3RLGS_Salle_de_bain_200331_DEF.jpg',
 'appartement3/Axo_filaire_insta2_190930.jpg',
