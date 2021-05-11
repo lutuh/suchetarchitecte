@@ -1,12 +1,12 @@
 ﻿---
 publishdate: 2019-10-13
-title: "Appartement 3"
-description: "Appartement 3"
+title: "Appartement 45"
+description: "Appartement 45"
 location: "Strasbourg (67)"
 client: "Privée"
 builder: ["Aurélien SUCHET Architecte"]
-period: "2019"
-surface: "176 m²"
+period: "2020"
+surface: "66 m²"
 cost: "-"
 images: [
 'appartement3/3RLGS_Salon_1_200331_DEF.jpg',
@@ -16,8 +16,8 @@ images: [
 'appartement3/Axo_filaire_nh_191015.jpg',
 'appartement3/3RLGS_Palette_matéiaux_A.jpg',
 ]
-metadesc: "Rénovation complète d’un appartement duplex situé à Strasbourg, mission conception."
+metadesc: "Rénovation complète d’un appartement situé à Strasbourg, mission complète."
 ---
 
-La rénovation de ce duplex permet d’unifier l’espace de vie et d’accentuer l’aspect traversant de l’appartement pour favoriser la lumière et la ventilation naturelle. L’une des volontés est également d’optimiser le grand vestibule existant afin de réussir à « l’habiter » sans le séparer du reste de l’appartement.
+La rénovation de cet appartement avait pour objectif d'inverser la salle de bain et la cuisine afin que cette dernière s'ouvre sur le salon et profite de lumière naturelle. La cuisine équipée forme alors un volume qui met "un pied dans le salon".
  
