@@ -6,7 +6,7 @@ location: "Goxwiller (67)"
 client: "Commune de Goxwiller"
 builder: [
 'Agence N.Larché & N.Metzger, architectes d.pl.g.',
-'Chef de projet pour les phases : ESQ, APS, APD/PC, PRO, DCE, ACT, EXE/DET',
+'A. Suchet chef de projet pour les phases : ESQ, APS, APD/PC, PRO, DCE, ACT, EXE/DET',
 'Echoes, SIB Etudes, Sedime, EFT2E Ing., Fluid’IT, TFC'
 ]
 period: "2015 - 2017"
