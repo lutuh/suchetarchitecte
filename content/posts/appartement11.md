@@ -1,7 +1,7 @@
 ﻿﻿---
 publishdate: 2019-10-12
 title: "Maison 11"
-description: "Construction d'une maison neuve"
+description: "Maison 11"
 location: "Gimbrett (67)"
 client: "Privée"
 builder: ["Aurélien SUCHET Architecte"]
