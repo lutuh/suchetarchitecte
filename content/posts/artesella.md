@@ -4,7 +4,7 @@ title: "Calamity Atelier"
 description: "Arte Sella - Calamity Atelier"
 location: "Arte Sella, Borgo Valsugana (ITA)"
 client: "Arte Sella, the contemporary moutain"
-builder: ["Aurélien Suchet architecte et Anne-Sophie Cachat, architecte"]
+builder: ["Aurélien Suchet architecte et Anne-Sophie Cachat, architecte DE"]
 period: "2019"
 surface: "-"
 cost: "-"
