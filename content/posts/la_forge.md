@@ -4,8 +4,16 @@ title: "La Forge"
 description: "Requalification de l’ancienne forge en espace de mixité sociale"
 location: "Rixheim (68)"
 client: "Commune de Rixheim"
-builder: ["Aurélien Suchet Architecte mandataire", "Esther Henna Architecte associée",
-"RB Economie", "SIB Etudes", "Oechsel Bois", "EFTE Ing.", "Fluid’IT", "ESP Acoustique"]
+builder: [
+    "Aurélien Suchet Architecte mandataire",
+    "Esther Henna Architecte associée",
+    "RB Economie",
+    "SIB Etudes",
+    "Oechsel Bois",
+    "EFTE Ing.",
+    "Fluid’IT",
+    "ESP Acoustique"
+]
 period: "2019"
 surface: "295 m²"
 cost: "500 000€ HT"
