@@ -1,4 +1,4 @@
-﻿﻿---
+﻿---
 publishdate: 2019-04-27
 title: "Vandoeuvre-lès-nancy"
 description: "Construction d’une restauration scolaire et d’un auditorium à l’école de musique au sein du groupe scolaire Jeanne d’Arc"
@@ -9,7 +9,7 @@ period: "2018"
 surface: "400 m²"
 cost: "1 600 000 € HT"
 images: [
-'vandoeuvre/1_VAND_Perspective_L.jpg',
+    'vandoeuvre/1_VAND_Perspective_L.jpg',
 ]
 metadesc: "Concours portant sur la construction d’une restauration scolaire et d’un auditorium à l’école de musique au sein du groupe scolaire Jeanne d’Arc à Vandoeuvre-lès-Nancy."
 ---

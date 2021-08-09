@@ -10,11 +10,11 @@ period: "2019"
 surface: "295 m²"
 cost: "500 000€ HT"
 images: [
-'la_forge/Pers_int.jpg',
-'la_forge/Pers_ext.jpg',
-'la_forge/NB_Plan_R+1.jpg',
-'la_forge/NB_Plan_RDC.jpg',
-'la_forge/NB_Coupe.jpg',
+    'la_forge/Pers_int.jpg',
+    'la_forge/Pers_ext.jpg',
+    'la_forge/NB_Plan_R+1.jpg',
+    'la_forge/NB_Plan_RDC.jpg',
+    'la_forge/NB_Coupe.jpg',
 ]
 metadesc: "Concours portant sur la requalification de l’ancienne forge au cœur de Rixheim avec une approche de valorisation du patrimoine."
 ---

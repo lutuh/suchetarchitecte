@@ -9,10 +9,10 @@ period: "octobre 2018"
 surface: "120 m²"
 cost: "-"
 images: [
-'7af/7AF_Plan.jpg',
-'7af/7AF_V1.jpg',
-'7af/7AF_V2.jpg',
-'7af/7AF_V3.jpg',
+    '7af/7AF_Plan.jpg',
+    '7af/7AF_V1.jpg',
+    '7af/7AF_V2.jpg',
+    '7af/7AF_V3.jpg',
 ]
 metadesc: "Réaménagement intérieure d’une maison de rapport à Saint-Dié-des-Vosges."
 ---

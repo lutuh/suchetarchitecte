@@ -9,10 +9,10 @@ period: "2019"
 surface: "150 m²"
 cost: "-"
 images: [
-'maison4/4ARCO_AXO_1.jpg',
-'maison4/4ARCO_AXO_2.jpg',
-'maison4/4ARCO_AXO_3.jpg',
-'maison4/4ARCO_Bande_matériaux_200403.jpg',
+    'maison4/4ARCO_AXO_1.jpg',
+    'maison4/4ARCO_AXO_2.jpg',
+    'maison4/4ARCO_AXO_3.jpg',
+    'maison4/4ARCO_Bande_matériaux_200403.jpg',
 ]
 featured_image_id: 1
 metadesc: "Transformation et réhabilitation d’ateliers en une maison individuelle située à Oberhausbergen."

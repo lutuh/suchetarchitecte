@@ -9,11 +9,11 @@ period: "2020"
 surface: "66 m²"
 cost: "-"
 images: [
-'appartement3/3RLGS_Salon_2_200331_DEF.jpg',
-'appartement3/3RLGS_Salle_de_bain_200331_DEF.jpg',
-'appartement3/Axo_filaire_insta2_190930.jpg',
-'appartement3/Axo_filaire_nh_191015.jpg',
-'appartement3/3RLGS_Palette_matéiaux_A.jpg',
+    'appartement3/3RLGS_Salon_2_200331_DEF.jpg',
+    'appartement3/3RLGS_Salle_de_bain_200331_DEF.jpg',
+    'appartement3/Axo_filaire_insta2_190930.jpg',
+    'appartement3/Axo_filaire_nh_191015.jpg',
+    'appartement3/3RLGS_Palette_matéiaux_A.jpg',
 ]
 metadesc: "Rénovation complète d’un appartement situé à Strasbourg, mission complète."
 ---
