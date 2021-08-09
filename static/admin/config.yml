@@ -16,14 +16,14 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Date", name: "publishdate", widget: "datetime", default: "blog"}
+      - {label: "Date", name: "publishdate", widget: "datetime"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Location", name: "location", widget: "string"}
-      - {label: "Client", name: "client", widget: "string"}
-      - {label: "Builder", name: "builder", widget: "list", default: ["Aurélien SUCHET Architecte"]}
-      - {label: "Period", name: "period", widget: "string"}
-      - {label: "Surface", name: "surface", widget: "string"}
-      - {label: "Cost", name: "cost", widget: "string"}
+      #- {label: "Location", name: "location", widget: "string"}
+      #- {label: "Client", name: "client", widget: "string"}
+      #- {label: "Builder", name: "builder", widget: "list", default: ["Aurélien SUCHET Architecte"]}
+      #- {label: "Period", name: "period", widget: "string"}
+      #- {label: "Surface", name: "surface", widget: "string"}
+      #- {label: "Cost", name: "cost", widget: "string"}
       #- {label: "Rating (scale of 1-5)", name: "images", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
