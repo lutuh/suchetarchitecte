@@ -1,4 +1,4 @@
-﻿﻿---
+﻿---
 publishdate: 2019-10-12
 title: "Maison 11"
 description: "Maison 11"
@@ -9,11 +9,11 @@ period: "2019"
 surface: "128 m²"
 cost: "-"
 images: [
-'appartement11/Pers_AA.jpg',
-'appartement11/Pers_CC.jpg',
-'appartement11/axo_nb.jpg',
-'appartement11/Coupe.jpg',
-'appartement11/facade_sud.jpg',
+    'appartement11/Pers_AA.jpg',
+    'appartement11/Pers_CC.jpg',
+    'appartement11/axo_nb.jpg',
+    'appartement11/Coupe.jpg',
+    'appartement11/facade_sud.jpg',
 ]
 metadesc: "Conception d’une maison individuelle neuve située au cœur de Gimbrett. Elle sera réalisée en partie en auto-construction par ses futurs habitants."
 ---
