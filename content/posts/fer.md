@@ -15,5 +15,7 @@ metadesc: Proposition architecturale pour la création d’une école de musique
 images:
   - /img/upload/fer_pers_fragment_l.jpg
   - /img/upload/fer_plans.jpg
+  - /img/upload/fer_vue_2a.jpg
+  - /img/upload/fer_vue_1a.jpg
 ---
 \-
