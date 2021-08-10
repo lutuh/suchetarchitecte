@@ -15,7 +15,6 @@ imagesLegacy:
   - fer/FER_vue_1a.jpg
 metadesc: Proposition architecturale pour la création d’une école de musique et
   d’une halle de marché à Ferrette.
-images:
-  - /img/upload/cotton.png
+images: []
 ---
 \-
