@@ -8,7 +8,7 @@ builder: []
 period: "2011 - 2012"
 surface: "960 m²"
 cost:
-images: [
+imagesLegacy: [
     'fer/FER_Pers_fragment_L.jpg',
     'fer/FER_Plans.jpg',
     'fer/FER_vue_2a.jpg',

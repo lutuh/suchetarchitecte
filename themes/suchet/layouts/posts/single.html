@@ -7,7 +7,7 @@
             <div class="column is-half-desktop">
 
                 <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-                    {{ range .Params.images }}
+                    {{ range .Params.imagesLegacy }}
                     {{ $path := print "static/img/large/" . }}
                     <figure class="image margin-bottom-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                         <a href="/img/large/{{.}}" itemprop="contentUrl" data-size="{{ with (imageConfig $path) }}{{.Width}}x{{.Height}}{{ end }}">
