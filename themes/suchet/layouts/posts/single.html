@@ -19,7 +19,7 @@
                     {{ range .Params.images }}
                     {{ $path := print "static/" . }}
                     <figure class="image margin-bottom-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                        <a href="{{.}}?nf_resize=smartcrop&w=1920x1080" itemprop="contentUrl" data-size="1920x1080">
+                        <a href="{{.}}?nf_resize=smartcrop&w=1920&h=1080" itemprop="contentUrl" data-size="1920x1080">
                             <img src="{{.}}?nf_resize=fit&w=660" itemprop="thumbnail" alt="{{.}}" />
                         </a>
                     </figure>
