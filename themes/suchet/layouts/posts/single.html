@@ -17,6 +17,11 @@
                     {{ end }}
                 </div>
 
+                {{ range .Params.images }}
+                    <img src="{{.}}" />
+                    <img src="{{.}}?nf_resize=fit&w=10" />
+                {{ end }}
+
                 <hr/>
 
                 <h2 class="title is-4">{{.Description}}</h2>
