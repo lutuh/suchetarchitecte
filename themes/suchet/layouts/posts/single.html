@@ -19,7 +19,8 @@
                     {{ range .Params.images }}
                     {{ $path := print "static/" . }}
                     <figure class="image margin-bottom-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                        <a href="{{.}}?nf_resize=smartcrop&w=1920&h=1080" itemprop="contentUrl" data-size="1920x1080">
+                        <!-- https://github.com/dimsemenov/PhotoSwipe/issues/741#issuecomment-731756125 -->
+                        <a href="{{.}}nf_resize=fit&w=1920q" itemprop="contentUrl" class="image-link-class">
                             <img src="{{.}}?nf_resize=fit&w=660" itemprop="thumbnail" alt="{{.}}" />
                         </a>
                     </figure>
@@ -116,6 +117,19 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
+        // https://github.com/dimsemenov/PhotoSwipe/issues/741#issuecomment-731756125
+        setTimeout(function() {    // Wait for js empty stack
+            const galleryLinks = document.querySelectorAll('.image-link-class');    // Get all links
+            galleryLinks.forEach((element) => {
+                let image = new Image();
+                image.src = element.getAttribute('href');
+                image.onload = () => {    // Wait for image to load
+                    element.setAttribute('data-size', `${image.naturalWidth}x${image.naturalHeight}`);
+                    image = null;    // Free resource so garbage collector can clean it
+                }
+            });
+        }, 1);
+
     var initPhotoSwipeFromDOM = function(gallerySelector) {
 
         // parse slide data (url, title, size ...) from DOM elements
