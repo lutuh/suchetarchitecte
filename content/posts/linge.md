@@ -21,7 +21,6 @@ images:
   - linge/Vue_intérieure.jpg
   - linge/Plan_RDC.jpg
   - linge/Plan_masse.jpg
-  - /img/upload/selection_154.png
 ---
 Concours : "Projet non lauréat"
 
