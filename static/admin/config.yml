@@ -25,5 +25,6 @@ collections:
       - {label: "Period", name: "period", widget: "string"}
       - {label: "Surface", name: "surface", widget: "string"}
       - {label: "Cost", name: "cost", widget: "string"}
+      - {label: "Images Legacy", name: "imagesLegacy", widget: "list", field: {label: Image, name: image, widget: image}}
       - {label: "Images", name: "images", widget: "list", field: {label: Image, name: image, widget: image}}
       - {label: "Body", name: "body", widget: "markdown"}
