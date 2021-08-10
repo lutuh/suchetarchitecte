@@ -10,13 +10,10 @@ surface: 960 m²
 cost: "-"
 imagesLegacy:
   - fer/FER_Pers_fragment_L.jpg
-  - fer/FER_Plans.jpg
-  - fer/FER_vue_2a.jpg
-  - fer/FER_vue_1a.jpg
 metadesc: Proposition architecturale pour la création d’une école de musique et
   d’une halle de marché à Ferrette.
 images:
-  - /img/upload/cotton.png
-  - /img/upload/cotton.png
+  - /img/upload/fer_pers_fragment_l.jpg
+  - /img/upload/fer_plans.jpg
 ---
 \-
