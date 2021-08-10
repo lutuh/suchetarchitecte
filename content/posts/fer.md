@@ -17,5 +17,6 @@ metadesc: Proposition architecturale pour la création d’une école de musique
   d’une halle de marché à Ferrette.
 images:
   - /img/upload/cotton.png
+  - /img/upload/cotton.png
 ---
 \-
