@@ -17,7 +17,6 @@ images:
   - /img/upload/appartement3_Axo_filaire_insta2_190930.jpg
   - /img/upload/appartement3_Axo_filaire_nh_191015.jpg
   - /img/upload/appartement3_3RLGS_Palette_matéiaux_A.jpg
-]
 metadesc: "Rénovation complète d’un appartement situé à Strasbourg, mission complète."
 ---
 
