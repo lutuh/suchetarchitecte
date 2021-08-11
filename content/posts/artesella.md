@@ -10,13 +10,15 @@ surface: "-"
 cost: "-"
 imagesLegacy: [
     'artesella/CA_Planche_1.jpg',
-    'artesella/CA_Planche_2.jpg',
-    'artesella/CA_Planche_3.jpg',
-    'artesella/CA_Planche_4.jpg',
-    'artesella/CA_Planche_5.jpg',
-    'artesella/CA_Planche_6.jpg',
-    'artesella/CA_Planche_7.jpg',
 ]
+images:
+  - /img/upload/artesella_CA_Planche_1.jpg
+  - /img/upload/artesella_CA_Planche_2.jpg
+  - /img/upload/artesella_CA_Planche_3.jpg
+  - /img/upload/artesella_CA_Planche_4.jpg
+  - /img/upload/artesella_CA_Planche_5.jpg
+  - /img/upload/artesella_CA_Planche_6.jpg
+  - /img/upload/artesella_CA_Planche_7.jpg
 metadesc: "Proposition architecturale et paysagère pour le développement de nouveaux lieux de pratique artistique dans le parc Arte Sella à Borgo Valsugana en Italie."
 ---
 
