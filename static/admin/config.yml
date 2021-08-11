@@ -29,7 +29,6 @@ collections:
       - label: "Images"
         name: "images"
         widget: "list"
-        collapsed: false
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
