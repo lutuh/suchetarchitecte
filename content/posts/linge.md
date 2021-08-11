@@ -16,8 +16,6 @@ surface: 60 m²
 cost: 255 000€ HT
 metadesc: Concours portant sur l’extension du Musée-mémorial du Linge situé sur
   les hauteurs d’Orbey dans le massif des Vosges.
-imagesLegacy:
-  - linge/Vue_extérieure.jpg
 images:
   - /img/upload/linge_Vue_extérieure.jpg
   - /img/upload/linge_Vue_intérieure.jpg

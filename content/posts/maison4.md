@@ -8,10 +8,6 @@ builder: ["Aurélien SUCHET Architecte"]
 period: "2019"
 surface: "150 m²"
 cost: "-"
-imagesLegacy: [
-    'maison4/4ARCO_AXO_1.jpg',
-    'maison4/4ARCO_AXO_2.jpg',
-]
 images:
   - /img/upload/maison4_4ARCO_AXO_1.jpg
   - /img/upload/maison4_4ARCO_AXO_2.jpg

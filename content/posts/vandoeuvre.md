@@ -8,9 +8,6 @@ builder: ['Aurélien Suchet Architecte mandataire', 'Esther Henna Architecte ass
 period: "2018"
 surface: "400 m²"
 cost: "1 600 000 € HT"
-imagesLegacy: [
-    'vandoeuvre/1_VAND_Perspective_L.jpg',
-]
 images:
   - /img/upload/vandoeuvre_1_VAND_Perspective_L.jpg
 metadesc: "Concours portant sur la construction d’une restauration scolaire et d’un auditorium à l’école de musique au sein du groupe scolaire Jeanne d’Arc à Vandoeuvre-lès-Nancy."

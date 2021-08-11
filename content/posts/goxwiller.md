@@ -12,9 +12,6 @@ builder: [
 period: "2015 - 2017"
 surface: "720 m²"
 cost: "1 420 000 € HT"
-imagesLegacy: [
-    'goxwiller/DSC_1318_m_D_Web.jpg',
-]
 images:
   - /img/upload/goxwiller_DSC_1318_m_D_Web.jpg
   - /img/upload/goxwiller_DSC_1313_m_D_Web.jpg

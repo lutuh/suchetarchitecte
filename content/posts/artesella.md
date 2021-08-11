@@ -8,9 +8,6 @@ builder: ["Aurélien Suchet architecte et Anne-Sophie Cachat, architecte DE"]
 period: "2019"
 surface: "-"
 cost: "-"
-imagesLegacy: [
-    'artesella/CA_Planche_1.jpg',
-]
 images:
   - /img/upload/artesella_CA_Planche_1.jpg
   - /img/upload/artesella_CA_Planche_2.jpg

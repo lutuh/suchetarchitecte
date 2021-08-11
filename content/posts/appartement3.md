@@ -8,9 +8,6 @@ builder: ["Aurélien SUCHET Architecte"]
 period: "2020"
 surface: "66 m²"
 cost: "-"
-imagesLegacy: [
-    'appartement3/3RLGS_Salon_2_200331_DEF.jpg',
-]
 images:
   - /img/upload/appartement3_3RLGS_Salon_2_200331_DEF.jpg
   - /img/upload/appartement3_3RLGS_Salle_de_bain_200331_DEF.jpg

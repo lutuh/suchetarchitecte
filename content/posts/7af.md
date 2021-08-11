@@ -8,9 +8,6 @@ builder: ['Aurélien SUCHET Architecte',]
 period: "octobre 2018"
 surface: "120 m²"
 cost: "-"
-imagesLegacy: [
-    '7af/7AF_Plan.jpg',
-]
 images:
   - /img/upload/7af_7AF_Plan.jpg
   - /img/upload/7af_7AF_V1.jpg

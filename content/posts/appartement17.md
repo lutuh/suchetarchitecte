@@ -11,8 +11,6 @@ surface: 50 m²
 cost: "-"
 metadesc: Aménagement d’un appartement avec mezzanine dans un corps de ferme
   alsacien situé au cœur de Lampertheim, mission conception et maitrise d’œuvre.
-imagesLegacy:
-  - appartement17/1_DSC_1449_M2_L.jpg
 images:
   - /img/upload/appartement17_1_DSC_1449_M2_L.jpg
   - /img/upload/appartement17_2_DSC_1467_M2_L.jpg

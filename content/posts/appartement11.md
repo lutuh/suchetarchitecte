@@ -8,9 +8,6 @@ builder: ["Aurélien SUCHET Architecte"]
 period: "2019"
 surface: "128 m²"
 cost: "-"
-imagesLegacy: [
-    'appartement11/Pers_AA.jpg',
-]
 images:
   - /img/upload/appartement11_Pers_AA.jpg
   - /img/upload/appartement11_Pers_CC.jpg

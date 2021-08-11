@@ -17,9 +17,6 @@ builder: [
 period: "2019"
 surface: "295 m²"
 cost: "500 000€ HT"
-imagesLegacy: [
-    'la_forge/Pers_int.jpg',
-]
 images:
   - /img/upload/la_forge_Pers_int.jpg
   - /img/upload/la_forge_Pers_ext.jpg
