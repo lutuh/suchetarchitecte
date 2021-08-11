@@ -11,10 +11,10 @@
                 <div class="column is-half image-column">
                     {{ range (first 20 $section) }}
                     {{ $featuredImageId := .Params.featured_image_id | default 0 }}
-                    {{ $filePathRelative := index .Params.imagesLegacy $featuredImageId }}
+                    {{ $filePathRelative := index .Params.images $featuredImageId }}
                     <a href="{{.RelPermalink}}">
-                        <figure class="image"><img class="js-lazy" src="/img/tiny/{{$filePathRelative}}"
-                                                   data-src="/img/small/{{$filePathRelative}}"></figure>
+                        <figure class="image"><img class="js-lazy" src="{{$filePathRelative}}?nf_resize=fit&w=100"
+                                                   data-src="{{$filePathRelative}}?nf_resize=fit&w=660"></figure>
                         <div>
                             <span class="subtitle">{{ .Description }}</span>
                             <p>{{ .Params.location }}</p>
