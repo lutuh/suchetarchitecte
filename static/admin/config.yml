@@ -31,4 +31,5 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
+      - {label: "Featured image ID", name: featured_image_id, widget: number, default: 0}
       - {label: "Body", name: "body", widget: "markdown"}

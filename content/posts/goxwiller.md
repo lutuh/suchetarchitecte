@@ -6,7 +6,7 @@ location: "Goxwiller (67)"
 client: "Commune de Goxwiller"
 builder: [
     'Agence N.Larché & N.Metzger, architectes d.pl.g.',
-    'A. Suchet chef de projet pour les phases : ESQ, APS, APD/PC, PRO, DCE, ACT, EXE/DET',
+    'A. Suchet chef de projet pour les phases : ESQ, APS, APD/PC, PRO, DCE, ACT, EXE/DET',
     'Echoes, SIB Etudes, Sedime, EFT2E Ing., Fluid’IT, TFC'
 ]
 period: "2015 - 2017"
@@ -14,11 +14,14 @@ surface: "720 m²"
 cost: "1 420 000 € HT"
 imagesLegacy: [
     'goxwiller/DSC_1318_m_D_Web.jpg',
-    'goxwiller/DSC_1313_m_D_Web.jpg',
-    'goxwiller/DSC_1320_m_D_Web.jpg',
-    'goxwiller/DSC_1322_m_D_Web.jpg',
-    'goxwiller/DSC_1612_m_D_Web.jpg',
-    'goxwiller/DSC_1622_m_D_Web.jpg',
+]
+images:
+  - /img/upload/goxwiller_DSC_1318_m_D_Web.jpg
+  - /img/upload/goxwiller_DSC_1313_m_D_Web.jpg
+  - /img/upload/goxwiller_DSC_1320_m_D_Web.jpg
+  - /img/upload/goxwiller_DSC_1322_m_D_Web.jpg
+  - /img/upload/goxwiller_DSC_1612_m_D_Web.jpg
+  - /img/upload/goxwiller_DSC_1622_m_D_Web.jpg
 ]
 metadesc: "Ecole maternelle et élémentaire de Goxwiller, extension et réhabilitation BBC au cœur de la commune alsacienne de Goxwiller."
 ---
