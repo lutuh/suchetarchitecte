@@ -10,11 +10,13 @@ surface: "128 m²"
 cost: "-"
 imagesLegacy: [
     'appartement11/Pers_AA.jpg',
-    'appartement11/Pers_CC.jpg',
-    'appartement11/axo_nb.jpg',
-    'appartement11/Coupe.jpg',
-    'appartement11/facade_sud.jpg',
 ]
+images:
+  - /img/upload/appartement11_Pers_AA.jpg
+  - /img/upload/appartement11_Pers_CC.jpg
+  - /img/upload/appartement11_axo_nb.jpg
+  - /img/upload/appartement11_Coupe.jpg
+  - /img/upload/appartement11_facade_sud.jpg
 metadesc: "Conception d’une maison individuelle neuve située au cœur de Gimbrett. Elle sera réalisée en partie en auto-construction par ses futurs habitants."
 ---
 
