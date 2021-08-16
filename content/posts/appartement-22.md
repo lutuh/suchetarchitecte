@@ -12,4 +12,4 @@ cost: "-"
 images: []
 featured_image_id: 0
 ---
-\-
+Rénovation et réaménagement d’un appartement afin d’y ajouter une chambre et une salle d’eau.
