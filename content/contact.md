@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 images:
-  - small/carte.jpg
+  - /img/upload/carte.jpg
 
 metadesc: "atelier aSHe - 43 rue de l’Yser, 67000 Strasbourg – contact@atelier-ashe.fr – 0608285114"
 ---
