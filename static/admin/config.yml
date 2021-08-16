@@ -33,3 +33,16 @@ collections:
         field: {label: Image, name: image, widget: image}
       - {label: "Featured image ID", name: featured_image_id, widget: number, default: 0}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "page"
+    label: "Page"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Title, name: title, width: string}
+      - {label: Description, name: metadesc, width: string}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: { label: Image, name: image, widget: image }
