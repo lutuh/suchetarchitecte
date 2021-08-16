@@ -1,8 +1,7 @@
 ---
 publishdate: 2021-08-16T12:11:11.945Z
 title: Appartement 22
-description: "Rénovation et réaménagement d’un appartement afin d’y ajouter une
-  chambre et une salle d’eau. "
+description: Appartement 22
 location: "Strasbourg (67) "
 client: Privé
 builder:
