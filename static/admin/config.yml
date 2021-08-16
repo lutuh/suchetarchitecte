@@ -46,3 +46,4 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: { label: Image, name: image, widget: image }
+      - {label: "Body", name: "body", widget: "markdown"}
