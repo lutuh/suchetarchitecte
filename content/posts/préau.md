@@ -6,7 +6,9 @@ description: Création d’un préau et aménagement d’un espace extérieur au
 location: Wingen sur Moder (67)
 client: Collectivité Européenne d’Alsace
 builder:
-  - AtelieraSHe
+  - Atelier aSHe (mandataire) Oechsel Bois
+  - Chemins Indiens
+  - Fluid’IT
 period: 2020-2021
 surface: "200"
 cost: 120 000.00 €HT
