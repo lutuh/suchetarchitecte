@@ -9,7 +9,8 @@ builder:
 period: "2021"
 surface: 102 m2
 cost: "-"
-images: []
+images:
+  - /img/upload/dsc_4393_m.jpg
 featured_image_id: 0
 ---
 Rénovation et réaménagement d’un appartement afin d’y ajouter une chambre et une salle d’eau.
