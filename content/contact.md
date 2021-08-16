@@ -9,7 +9,6 @@ images:
 
 <a href="mailto:contact@atelier-ashe.fr">contact@atelier-ashe.fr</a>
 
-<a href=https://www.facebook.com/atelierashe/photos/>
-<a hrefhttps://www.instagram.com/atelier_ashe/>
+<a href="https://www.facebook.com/atelierashe/photos/">Facebook</a>
 
-T
+<a href="https://www.instagram.com/atelier_ashe/">Instagram</a>
