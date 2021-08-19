@@ -10,6 +10,7 @@ period: "2019"
 surface: "-"
 cost: "-"
 images:
+  - /img/upload/ca_1.jpg
   - /img/upload/artesella_CA_Planche_7.jpg
 featured_image_id: 0
 metadesc: Proposition architecturale et paysagère pour le développement de
