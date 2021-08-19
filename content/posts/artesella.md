@@ -1,22 +1,20 @@
 ---
 publishdate: 2019-04-26
-title: "Calamity Atelier"
-description: "Arte Sella - Calamity Atelier"
-location: "Arte Sella, Borgo Valsugana (ITA)"
-client: "Arte Sella, the contemporary moutain"
-builder: ["Aurélien Suchet architecte et Anne-Sophie Cachat, architecte DE"]
+title: Calamity Atelier
+description: Arte Sella - Calamity Atelier
+location: Arte Sella, Borgo Valsugana (ITA)
+client: Arte Sella, the contemporary moutain
+builder:
+  - Aurélien Suchet architecte et Anne-Sophie Cachat, architecte DE
 period: "2019"
 surface: "-"
 cost: "-"
 images:
-  - /img/upload/artesella_CA_Planche_1.jpg
-  - /img/upload/artesella_CA_Planche_2.jpg
-  - /img/upload/artesella_CA_Planche_3.jpg
-  - /img/upload/artesella_CA_Planche_4.jpg
-  - /img/upload/artesella_CA_Planche_5.jpg
-  - /img/upload/artesella_CA_Planche_6.jpg
   - /img/upload/artesella_CA_Planche_7.jpg
-metadesc: "Proposition architecturale et paysagère pour le développement de nouveaux lieux de pratique artistique dans le parc Arte Sella à Borgo Valsugana en Italie."
+featured_image_id: 0
+metadesc: Proposition architecturale et paysagère pour le développement de
+  nouveaux lieux de pratique artistique dans le parc Arte Sella à Borgo
+  Valsugana en Italie.
 ---
 
 Concours d'idées
