@@ -13,6 +13,7 @@ period: 2020-2021
 surface: "200"
 cost: 120 000.00 €HT
 images:
+  - /img/upload/image4.png
   - /img/upload/image2.png
 featured_image_id: 0
 ---
