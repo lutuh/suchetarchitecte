@@ -14,6 +14,7 @@ images:
   - /img/upload/artesella_CA_Planche_7.jpg
   - /img/upload/ca_2.jpg
   - /img/upload/ca_3.jpg
+  - /img/upload/ca_4.jpg
 featured_image_id: 0
 metadesc: Proposition architecturale et paysagère pour le développement de
   nouveaux lieux de pratique artistique dans le parc Arte Sella à Borgo
