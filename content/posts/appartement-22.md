@@ -2,7 +2,7 @@
 publishdate: 2021-08-16T12:11:11.945Z
 title: Appartement 22
 description: Appartement 22
-location: "Strasbourg (67) "
+location: "Orangerie, Strasbourg (67) "
 client: Privé
 builder:
   - Aurélien SUCHET Architecte
