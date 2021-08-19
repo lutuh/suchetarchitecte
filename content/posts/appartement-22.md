@@ -14,6 +14,8 @@ images:
   - /img/upload/dsc_4416_m.jpg
   - /img/upload/dsc_4441_m.jpg
   - /img/upload/dsc_4447_m.jpg
+  - /img/upload/dsc_4414_m.jpg
+  - /img/upload/dsc_4387_m.jpg
 featured_image_id: 0
 ---
 Rénovation et réaménagement d’un appartement afin d’y ajouter une chambre et une salle d’eau.
