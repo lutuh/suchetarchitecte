@@ -6,7 +6,7 @@ location: Les Contades, Strasbourg (67)
 client: Privé
 builder:
   - Aurélien SUCHET Architecte
-period: "2020"
+period: "2019"
 surface: 176 m²
 cost: "-"
 images:
