@@ -2,12 +2,12 @@
 publishdate: 2019-10-13
 title: Appartement 3
 description: Appartement 3
-location: Strasbourg (67)
-client: Privée
+location: Les Contades, Strasbourg (67)
+client: Privé
 builder:
   - Aurélien SUCHET Architecte
 period: "2020"
-surface: 66 m²
+surface: 176 m²
 cost: "-"
 images:
   - /img/upload/appartement3_Axo_filaire_insta2_190930.jpg
@@ -17,6 +17,4 @@ images:
 featured_image_id: 1
 metadesc: Rénovation complète d’un appartement situé à Strasbourg, mission complète.
 ---
-
-La rénovation de cet appartement avait pour objectif d'inverser la salle de bain et la cuisine afin que cette dernière s'ouvre sur le salon et profite de lumière naturelle. La cuisine équipée forme alors un volume qui met "un pied dans le salon".
- 
+La rénovation de ce duplex permet d’unifier l’espace de vie et d’accentuer l’aspect traversant de l’appartement pour favoriser la lumière et la ventilation naturelle. L’une des volontés est également d’optimiser le grand vestibule existant afin de réussir à « l’habiter » sans le séparer du reste de l’appartement.
