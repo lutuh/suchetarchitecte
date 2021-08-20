@@ -10,7 +10,7 @@ builder:
   - Chemins Indiens
   - Fluid’IT
 period: 2020-2021
-surface: "200"
+surface: 200 m2
 cost: 120 000.00 €HT
 images:
   - /img/upload/image4.png
