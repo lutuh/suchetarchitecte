@@ -5,7 +5,7 @@ description: Appartement 22
 location: "Orangerie, Strasbourg (67) "
 client: Privé
 builder:
-  - Aurélien SUCHET Architecte
+  - atelier aSHe
 period: "2021"
 surface: 102 m2
 cost: "-"
