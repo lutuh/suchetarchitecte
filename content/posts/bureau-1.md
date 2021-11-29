@@ -5,7 +5,7 @@ description: Bureau 43
 location: Dossenheim (67)
 client: Privé
 builder:
-  - Esther HENNA Architecte
+  - Esther Henna Architecte
 period: "2019"
 surface: 20m2
 cost: "-"
