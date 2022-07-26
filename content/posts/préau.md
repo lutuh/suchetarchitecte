@@ -11,7 +11,7 @@ builder:
   - Fluid’IT
 period: 2020-2021
 surface: 200 m2
-cost: 120 000.00 €HT
+cost: 175 000.00 €HT
 images:
   - /img/upload/29rzmw_plan-de-situation_2000_mw.jpg
   - /img/upload/image4.png
