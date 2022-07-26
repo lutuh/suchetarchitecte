@@ -14,7 +14,7 @@ surface: 200 m2
 cost: 175 000.00 €HT
 images:
   - /img/upload/29rzmw_plan-de-situation_2000_mw.jpg
-  - /img/upload/image4.png
+  - /img/upload/dsc_5528_mfl.jpg
   - /img/upload/image2.png
 featured_image_id: 2
 ---
