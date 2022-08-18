@@ -13,7 +13,7 @@ builder:
   - Sedime
 period: 2020-2021
 surface: 200 m2
-cost: 175 000.00 €HT
+cost: 167 798.00 €HT
 images:
   - /img/upload/29rzmw_plan-de-situation_2000_mw.jpg
   - /img/upload/dsc_5528_mfl.jpg
