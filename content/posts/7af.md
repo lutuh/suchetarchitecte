@@ -1,5 +1,5 @@
 ---
-publishdate: 2019-02-09
+publishdate: 2022-09-01T08:44:06.559Z
 title: 12RM
 description: Extension 12
 location: Dingsheim-sur-Bruche (67)
