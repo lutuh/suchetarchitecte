@@ -11,7 +11,8 @@ surface: 20 m²
 cost: "-"
 images:
   - /img/upload/12rm_logo_220428.jpg
-featured_image_id: 0
+  - /img/upload/pers-dingsheim_def_l.jpg
+featured_image_id: 4
 metadesc: Réaménagement intérieure d’une maison de rapport à Saint-Dié-des-Vosges.
 ---
 \-
