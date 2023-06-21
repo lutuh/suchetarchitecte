@@ -5,13 +5,14 @@ description: Multi-accueil à Fameck
 location: Fameck (57)
 client: Communauté d'Agglomération du Val de Fensch (57)
 builder:
-  - Atelier aSHe (mandataire) RB Eco
+  - Atelier aSHe (mandataire)
+  - RB Eco
   - SIB  Etudes
   - Terranergie
   - Ingémansson
-period: 2021-2023
-surface: 578 m2
-cost: 1 650 000 €HT
+period: Livraison mai 2023
+surface: 678 m2
+cost: 1 919 392 €HT
 images:
   - /img/upload/fameck_plan-de-situation_2000_mw.jpg
   - /img/upload/axo-ext-filaire_def.jpg
