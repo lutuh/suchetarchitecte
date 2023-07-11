@@ -11,7 +11,7 @@ builder:
   - Fluid'it
   - SIB Etudes
   - Sedime
-period: 2020-2021
+period: Livraison 2022
 surface: 200 m2
 cost: 167 798.00 €HT
 images:
