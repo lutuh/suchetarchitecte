@@ -21,7 +21,7 @@ images:
   - /img/upload/appartement17_9_DSC_1555_M2_L.jpg
   - /img/upload/appartement17_10_DSC_1542_M2_L.jpg
   - /img/upload/appartement17_11_AXO_jour.jpg
-featured_image_id: 1
+featured_image_id: 0
 metadesc: Aménagement d’un appartement avec mezzanine dans un corps de ferme
   alsacien situé au cœur de Lampertheim, mission conception et maitrise d’œuvre.
 ---
