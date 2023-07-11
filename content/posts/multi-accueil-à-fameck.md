@@ -1,5 +1,5 @@
 ---
-publishdate: 2021-08-19T21:22:40.957Z
+publishdate: 2023-07-11T12:02:36.209Z
 title: Multi-accueil à Fameck
 description: Multi-accueil à Fameck
 location: Fameck (57)
