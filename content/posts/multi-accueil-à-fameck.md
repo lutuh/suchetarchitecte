@@ -1,7 +1,7 @@
 ---
 publishdate: 2023-07-11T12:02:36.209Z
-title: Multi-accueil à Fameck
-description: Multi-accueil à Fameck
+title: FAM
+description: Construction d'un Multi-accueil
 location: Fameck (57)
 client: Communauté d'Agglomération du Val de Fensch (57)
 builder:
