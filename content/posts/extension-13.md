@@ -13,6 +13,10 @@ images:
   - /img/upload/dsc_8446_m.jpg
   - /img/upload/dsc_8448_m.jpg
   - /img/upload/dsc_8436_m.jpg
+  - /img/upload/img_20230306_135224.jpg
+  - /img/upload/img_20230306_134727.jpg
+  - /img/upload/img_20220913_094144.jpg
+  - /img/upload/img_20220823_145229.jpg
 featured_image_id: 0
 ---
 Extension et rénovation d'une maison individuelle
