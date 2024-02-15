@@ -10,6 +10,8 @@ builder:
 period: 2022-2024
 surface: "-"
 cost: 620 350 €HT
+images:
+  - /img/upload/img_20230915_183431_dxo_r.jpg
 featured_image_id: 0
 ---
 Remplacement des menuiseries extérieures et rénovation des préaux de l'annexe de l'école du Conseil des XV.
