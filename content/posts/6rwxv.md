@@ -5,7 +5,8 @@ description: Préau 15
 location: Conseil de XV, Strasbourg (67)
 client: Ville de Strasbourg
 builder:
-  - Atelier aSHe  (mandataire) RB Eco
+  - Atelier aSHe  (mandataire)
+  - RB Eco
   - Fluid’it
 period: 2022-2024
 surface: "-"
