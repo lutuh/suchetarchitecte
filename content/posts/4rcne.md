@@ -1,5 +1,5 @@
 ---
-publishdate: 2024-02-16T20:19:34.083Z
+publishdate: 2023-05-10T19:19:00.000Z
 title: 4RCNE
 description: Appartement 4
 location: Krutenau, Strasbourg (67)
