@@ -12,6 +12,9 @@ cost: "-"
 images:
   - /img/upload/pers-dingsheim_def_l.jpg
   - /img/upload/12rm_logo_220428.jpg
+  - /img/upload/img_20210909_154051.jpg
+  - /img/upload/img_20210909_154137.jpg
+  - /img/upload/img_20210909_154236.jpg
 featured_image_id: 0
 metadesc: Réaménagement intérieure d’une maison de rapport à Saint-Dié-des-Vosges.
 ---
