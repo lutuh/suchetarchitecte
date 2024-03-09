@@ -21,6 +21,7 @@ images:
   - /img/upload/dsc_7302_m.jpg
   - /img/upload/dsc_7487_m.jpg
   - /img/upload/dsc_7216_m.jpg
+  - /img/upload/1685728875600_rb.jpg
   - /img/upload/dsc_7365_m.jpg
   - /img/upload/dsc_7410_m.jpg
   - /img/upload/axo-ext-filaire_def.jpg
