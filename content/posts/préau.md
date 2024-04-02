@@ -21,6 +21,8 @@ images:
   - /img/upload/dsc_5443_ml.jpg
   - /img/upload/dsc_5508_ml.jpg
   - /img/upload/dsc_5577_mrl.jpg
+  - /img/upload/1645107433294.jpg
+  - /img/upload/img_20210811_092822.jpg
 featured_image_id: 2
 ---
 Il s’agit de construire un préau ainsi que d’aménager ses abords afin de créer un lieu de « convivialité » extérieur que peuvent s’approprier les élèves lors des pauses, mais aussi le corps enseignant lors d’activités en plein air. Notre proposition conserve une ouverture maximale sur le cadre naturel environnant et met en œuvre des matériaux locaux : structure bois et gradins en grès des Vosges. Nous avons également proposé de végétaliser la cour afin de réduire l’impact solaire sur le bâtiment externat qui souffre de surchauffe lors des belles périodes.
