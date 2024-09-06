@@ -2,6 +2,7 @@
 title: Presentation
 images:
   - /img/upload/ddqe-certifie23gd.png
+  - /img/upload/dsc_1662_ok_nbrond.png
 image_extra_css: width-narrow
 metadesc: atelier aSHe, Architectes
 ---
