@@ -1,7 +1,7 @@
 ---
 title: Presentation
 images:
-  - /img/upload/ddqe-certifie23petit.png
+  - /img/upload/ddqe-certifie23gd.png
 image_extra_css: width-narrow
 metadesc: atelier aSHe, Architectes libres
 ---
