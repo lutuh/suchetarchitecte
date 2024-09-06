@@ -3,7 +3,7 @@ title: Presentation
 images:
   - /img/upload/ddqe-certifie23gd.png
 image_extra_css: width-narrow
-metadesc: atelier aSHe, Architectes libres
+metadesc: atelier aSHe, Architectes
 ---
 **L’atelier aSHe est né en 2021, il est le fruit d’une étroite collaboration de plusieurs années entre Esther Henna et Aurélien Suchet, tous deux architectes.**   
 
