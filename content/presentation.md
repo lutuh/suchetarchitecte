@@ -1,8 +1,7 @@
 ---
 title: Presentation
 images:
-  - /img/upload/ddqe-certifie23gd.png
-  - /img/upload/dsc_1662_ok_nbrond.png
+  - /img/upload/photo-certif.png
 image_extra_css: width-narrow
 metadesc: atelier aSHe, Architectes
 ---
@@ -15,3 +14,15 @@ Nous avons la chance de pouvoir travailler sur des programmes divers et aux éch
 Nous considérons qu'il est primordial de construire avec l'existant e﻿t de le valoriser. Pour ce faire, il faut savoir identifier ses qualités et ses faiblesses. Dès lors, les apports et les pathologies éventuels du bâti sont abordés et intégrés au programme, au même titre que la conception des espaces, l’aménagement, les techniques constructives et le choix des matériaux.
 
 Un espace réussi n’est pas que le fruit d’un « beau geste », c’est avant tout un lieu où l’on se sent bien, ainsi nous avons à cœur de créer des espaces caractérisés et agréables à vivre au quotidien. 
+
+**M﻿on Accompaganteur Rénov'**
+
+Nous pouvons vous conseiller et vous orienter dans votre projet de rénovation énergétique en qualité d'Accompagnateur Rénov'. 
+
+
+
+**I﻿ls ont participé :** 
+
+* Marie-Wandrille Baratte
+* L﻿ucas Spinneweber
+* Elsa Schwartz
