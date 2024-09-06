@@ -1,7 +1,7 @@
 ---
 title: Presentation
 images:
-  - /img/upload/photo-certif.png
+  - /img/upload/photo-certif_2.png
 image_extra_css: width-narrow
 metadesc: atelier aSHe, Architectes
 ---
