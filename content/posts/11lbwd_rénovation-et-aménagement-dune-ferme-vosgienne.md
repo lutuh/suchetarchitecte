@@ -10,7 +10,7 @@ period: En cours
 surface: 280m2
 cost: "-"
 images:
-  - /img/upload/dsc_9017_ra_mri.jpg
+  - /img/upload/dsc_9017_ra.jpg
   - /img/upload/11blw-ld-_-v02-copiebis.jpg
   - /img/upload/img_20220909_110209.jpg
   - /img/upload/11lbw-dl_axo_vert.jpg
