@@ -1,7 +1,7 @@
 ---
 publishdate: 2025-02-14T12:04:35.581Z
 title: 21IJC
-description: Construction de deux préaux et réfection de la cour et au collège
+description: Construction de deux préaux et réfection de la cour au collège
   Irène Joliot-Curie
 location: Wittenheim (68)
 client: Collectivité Européenne d’Alsace
