@@ -6,11 +6,11 @@ description: Construction de deux préaux et réfection de la cour et au collèg
 location: Wittenheim (68)
 client: Collectivité Européenne d’Alsace
 builder:
-  - Atelier aSHe (mandataire) ESW
-  - SIB  Etudes
-  - AMS
+  - Atelier aSHe (mandataire)
+  - ESW SIB-Etudes
   - FLUID'IT
-  - PHILO SOPHIE
+  - AMS Ingénierie
+  - Philo SOPHIE
   - Ingémansson
 period: 2024-2026
 surface: 205m2 et 325m2
