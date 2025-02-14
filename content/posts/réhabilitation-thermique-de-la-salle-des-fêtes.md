@@ -1,7 +1,7 @@
 ---
 publishdate: 2025-02-13T13:28:47.691Z
-title: Réhabilitation thermique de la salle des fêtes
-description: Kalt
+title: KALT
+description: Réhabilitation thermique de la salle des fêtes
 location: Kaltenhouse (67)
 client: Commune de Kaltenhouse
 builder:
