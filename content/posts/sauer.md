@@ -5,8 +5,8 @@ description: Réaménagement d'un Tiers-lieu associatif, culturel et scientifiqu
 location: Preuschdorf (67)
 client: Communauté de Commune de Sauer-Pechelbronn
 builder:
-  - Atelier aSHe (mandataire) Terranergie
-  - ""
+  - Atelier aSHe (mandataire)
+  - Terranergie
 period: "2025"
 surface: 110 m2
 cost: 166 199 €HT
