@@ -13,7 +13,7 @@ builder:
   - Ingémansson
 period: 2024 - 2025
 surface: 609m2
-cost: 600 000 €HT
+cost: 650 000 €HT
 images:
   - /img/upload/image12.jpg
   - /img/upload/image10.jpg
