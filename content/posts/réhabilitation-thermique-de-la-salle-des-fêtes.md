@@ -19,6 +19,6 @@ images:
   - /img/upload/image10.jpg
   - /img/upload/img_20240410_142907_nb.jpg
   - /img/upload/img_20240613_135418_nb.jpg
-featured_image_id: 1
+featured_image_id: 0
 ---
 Le projet à pour objectif de rénover énergétiquement la salle des fêtes ainsi que de maintenir l'usage avec musique amplifiée ce qui nécessite une mise aux normes de la partie ancienne de la salle.
