@@ -17,7 +17,6 @@ cost: 650 000 €HT
 images:
   - /img/upload/image12.jpg
   - /img/upload/image10.jpg
-  - /img/upload/coupe-pers_avp.png
   - /img/upload/img_20240410_142907_nb.jpg
   - /img/upload/img_20240613_135418_nb.jpg
 featured_image_id: 3
