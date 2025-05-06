@@ -6,10 +6,11 @@ location: Waldersbach (67)
 client: Particulier
 builder:
   - atelier aSHe
-period: En cours
+period: Livraison clos et couvert en avril 2025
 surface: 280m2
 cost: "-"
 images:
+  - /img/upload/dsc_9292_m_1.jpg
   - /img/upload/dsc_9017_ra.jpg
   - /img/upload/11blw-ld-_-v02-copiebis.jpg
   - /img/upload/img_20220909_110209.jpg
