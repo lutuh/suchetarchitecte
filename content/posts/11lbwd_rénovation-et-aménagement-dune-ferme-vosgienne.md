@@ -1,5 +1,5 @@
 ---
-publishdate: 2024-12-05T10:58:06.650Z
+publishdate: 2025-06-03T12:47:25.536Z
 title: 11LBWD
 description: Maison 11
 location: Waldersbach (67)
@@ -10,9 +10,12 @@ period: Livraison clos et couvert en avril 2025
 surface: 280m2
 cost: "-"
 images:
+  - /img/upload/11blw-ld-_-v02-copiebis.jpg
+  - /img/upload/dsc_9308_m.jpg
   - /img/upload/dsc_9292_m_1.jpg
   - /img/upload/dsc_9017_ra.jpg
-  - /img/upload/11blw-ld-_-v02-copiebis.jpg
+  - /img/upload/dsc_9339_m.jpg
+  - /img/upload/dsc_9364_m.jpg
   - /img/upload/img_20220909_110209.jpg
   - /img/upload/11lbw-dl_axo_vert.jpg
   - /img/upload/img_20250122_115659_nb.jpg
