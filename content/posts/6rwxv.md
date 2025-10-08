@@ -18,5 +18,7 @@ images:
 featured_image_id: 0
 ---
 Remplacement des menuiseries extérieures et rénovation des préaux de l'annexe de l'école du Conseil des XV.
- 
-Il s’agit de remplacer les menuiseries extérieures et les protections solaires afin de pérenniser le bâtiment prévu à un usage provisoire. Les préaux font également l'objet d'une réhabilitation complète
+
+Il s’agit de remplacer les menuiseries extérieures et les protections solaires afin de pérenniser le bâtiment prévu à un usage provisoire. Les préaux font également l'objet d'une réhabilitation complète. 
+
+P﻿hotographie : atelier aSHe
