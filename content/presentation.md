@@ -1,10 +1,10 @@
 ---
 title: Presentation
+metadesc: atelier aSHe, Architectes
 images:
   - /img/upload/dsc_1662_ok_nbrond.png
   - /img/upload/ddqe-certifie23gd.png
 image_extra_css: width-narrow
-metadesc: atelier aSHe, Architectes
 ---
 **L’atelier aSHe est né en 2021, il est le fruit d’une étroite collaboration de plusieurs années entre Esther Henna et Aurélien Suchet, tous deux architectes.**   
 
@@ -21,6 +21,19 @@ Un espace réussi n’est pas que le fruit d’un « beau geste », c’est avan
 **M﻿on Accompagnateur Rénov'**
 
 Nous pouvons vous conseiller et vous orienter dans votre projet de rénovation énergétique en qualité d'Accompagnateur Rénov'. 
+
+
+
+**I﻿ls nous on fait confiance et nous les remercions :** 
+
+* Des particuliers qui se reconnaitrons
+* H﻿ôtel Julien
+* C﻿ommunauté d'Agglomération du Val de Fensch
+* V﻿ille de Schiltigheim
+* C﻿ommunauté de communes de Sauer-Pechelbronn
+* C﻿ommune de Kaltenhouse
+* E﻿urométropole de Strasbourg (EMS)
+* C﻿ollectivité Européenne d'Alsace (CEA)
 
 
 
