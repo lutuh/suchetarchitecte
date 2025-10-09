@@ -16,3 +16,5 @@ images:
 featured_image_id: 0
 ---
 Transformation d’un garage en un espace bureau entièrement vitré qui s’ouvre sur le jardin.
+
+P﻿hotographie : atelier aSHe
