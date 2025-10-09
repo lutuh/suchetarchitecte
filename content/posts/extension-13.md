@@ -19,4 +19,6 @@ images:
   - /img/upload/img_20220823_145229.jpg
 featured_image_id: 0
 ---
-Extension et rénovation d'une maison individuelle
+Extension et rénovation d'une maison individuelle.
+
+P﻿hotographie : atelier aSHe
