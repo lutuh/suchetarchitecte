@@ -16,3 +16,5 @@ images:
 featured_image_id: 0
 ---
 Rénovation d'un appartement avec la création d'un nouveau bloc salle de bain et d'une cuisine équipée.
+
+P﻿hotographie : atelier aSHe
