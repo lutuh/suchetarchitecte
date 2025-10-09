@@ -19,3 +19,5 @@ images:
 featured_image_id: 0
 ---
 L’implantation du local vélo permet de créer une nouvelle entrée sur le site. Cet accès est protégé, par opposition à l’accès actuel qui se fait directement depuis la rue. Les matériaux utilisés pour le local vélo sont mixtes : la structure porteuse est en béton coulé brut, tout comme la dalle haute qui est végétalisée. Les parois sont en lames de bois à claire voie. La volonté est de traiter la  « 5ème façade » étant car elle est visible depuis les combles et de « compenser » l’espace vert perdu au sol. A l’intérieur, le projet de mobilier réorganise l'espace et crée un véritable vestibule d'entrée.
+
+P﻿hotographie : atelier aSHe
