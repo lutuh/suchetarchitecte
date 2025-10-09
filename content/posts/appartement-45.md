@@ -16,3 +16,5 @@ images:
 featured_image_id: 0
 ---
 Rénovation et réaménagement d’un appartement afin d’avoir la cuisine ouverte sur le séjour en second jour.
+
+P﻿hotographie : atelier aSHe
