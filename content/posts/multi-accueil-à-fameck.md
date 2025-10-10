@@ -19,11 +19,13 @@ images:
   - /img/upload/lc-ashe-fameck-hd-3.jpg
   - /img/upload/lc-ashe-fameck-hd-4.jpg
   - /img/upload/lc-ashe-fameck-hd-6.jpg
+  - /img/upload/lc-ashe-fameck-md-7.jpg
   - /img/upload/dsc_7476_m.jpg
   - /img/upload/dsc_7302_m.jpg
   - /img/upload/lc-ashe-fameck-hd-8.jpg
   - /img/upload/lc-ashe-fameck-hd-10.jpg
   - /img/upload/1685728875600_rb.jpg
+  - /img/upload/lc-ashe-fameck-md-11.jpg
   - /img/upload/dsc_7365_m.jpg
   - /img/upload/dsc_7410_m.jpg
   - /img/upload/axo-ext-filaire_def.jpg
