@@ -15,7 +15,7 @@ surface: 678 m2
 cost: 1 919 392 €HT
 images:
   - /img/upload/fameck_plan-de-situation_2000_mw.jpg
-  - /img/upload/lc-ashe-fameck-hd-1.jpg
+  - /img/upload/lc_fameck_md_1.jpg
   - /img/upload/dsc_7443_mr.jpg
   - /img/upload/dsc_7303_mr.jpg
   - /img/upload/dsc_7476_m.jpg
