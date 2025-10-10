@@ -17,12 +17,12 @@ images:
   - /img/upload/fameck_plan-de-situation_2000_mw.jpg
   - /img/upload/lc-ashe-fameck-hd-1.jpg
   - /img/upload/lc-ashe-fameck-hd-3.jpg
-  - /img/upload/dsc_7443_mr.jpg
+  - /img/upload/lc-ashe-fameck-hd-4.jpg
   - /img/upload/lc-ashe-fameck-hd-6.jpg
   - /img/upload/dsc_7476_m.jpg
   - /img/upload/dsc_7302_m.jpg
   - /img/upload/lc-ashe-fameck-hd-8.jpg
-  - /img/upload/dsc_7216_m.jpg
+  - /img/upload/lc-ashe-fameck-hd-10.jpg
   - /img/upload/1685728875600_rb.jpg
   - /img/upload/dsc_7365_m.jpg
   - /img/upload/dsc_7410_m.jpg
