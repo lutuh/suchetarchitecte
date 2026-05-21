@@ -11,6 +11,7 @@ surface: 680m2
 cost: 2 490 000 €HT
 images:
   - /img/upload/image1.jpg
+  - /img/upload/image2.jpg
 featured_image_id: 0
 ---
 L’opération résulte de la fusion de trois programmes, à savoir le volet démolition/reconstruction des cinq préaux, le volet démolition/reconstruction du garage RTS et le volet la réfection des couvertures de deux bâtiments sur trois.
