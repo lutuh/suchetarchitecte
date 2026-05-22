@@ -1,6 +1,6 @@
 ---
 publishdate: 2026-05-21T15:08:53.524Z
-title: Reconstruction des préaux du Groupe scolaire Stockfeld
+title: Stockfeld
 description: Reconstruction des préaux du Groupe scolaire Stockfeld
 location: Stockfeld, Strasbourg (67)
 client: Eurométropole de Strasbourg
