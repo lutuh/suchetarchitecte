@@ -7,6 +7,6 @@ images:
 ---
 10 rue Adèle Riton, 67000 Strasbourg - France
 
-<a href="mailto:contact@atelier-ashe.fr">contact@atelier-ashe.fr</a>
+[contact@atelier-ashe.fr](mailto:contact@atelier-ashe.fr)
 
-<a href="https://www.facebook.com/atelierashe/photos/">Facebook</a> / <a href="https://www.instagram.com/atelier_ashe/">Instagram</a> / <a href="https://www.linkedin.com/company/atelier-ashe/">Linkedin</a>
+[Facebook](https://www.facebook.com/atelierashe/photos/) / [Instagram](https://www.instagram.com/atelier_ashe/) / [Linkedin](https://www.linkedin.com/company/atelier-ashe/)
