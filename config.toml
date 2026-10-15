@@ -1,4 +1,4 @@
 baseURL = "https://atelier-ashe.fr/"
-languageCode = "fr"
+locale = "fr"
 title = "atelier aSHe"
 theme = "suchet"
