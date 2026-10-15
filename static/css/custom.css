@@ -31,6 +31,11 @@
     font-family: Kozuka,Arial,sans-serif;
 }
 
+.navbar-brand a.navbar-item:hover,
+.navbar-brand a.navbar-item:focus {
+    color: #4a4a4a;
+}
+
 .navbar-menu:not(.is-active) .navbar-item {
     padding-top: 0;
     padding-bottom: 1rem;
