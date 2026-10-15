@@ -2,15 +2,10 @@
 <script src="/js/photoswipe-ui-default.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.4.0/dist/lazyload.min.js"></script>
 <script src="/js/custom.js?v=001"></script>
-<!-- https://decapcms.org/docs/git-gateway-backend/ -->
+<!-- Netlify Identity links (invite, password reset, email confirmation) go to the homepage.
+     Only /admin/ loads the Identity widget, so send these links there. -->
 <script>
-    if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                    document.location.href = "/admin/";
-                });
-            }
-        });
+    if (/^#(invite|recovery|confirmation|email_change)_token=/.test(location.hash)) {
+        location.replace("/admin/" + location.hash);
     }
 </script>
