@@ -6,6 +6,9 @@
   HUGO_VERSION = "0.168.0"
   HUGO_ENV = "production"
 
+[dev]
+  command = "hugo server -w"
+
 [[headers]]
   for = "/*"
   [headers.values]
