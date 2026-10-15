@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-Source code for [atelier-ashe.fr](https://atelier-ashe.fr/), the portfolio website of Aurélien SUCHET Architecte. It is a [Hugo](https://gohugo.io/) static site deployed on Netlify, using a custom theme (`themes/suchet`) and managed via Netlify CMS (`static/admin/`).
+Source code for [atelier-ashe.fr](https://atelier-ashe.fr/), the portfolio website of Aurélien SUCHET Architecte. It is a [Hugo](https://gohugo.io/) static site deployed on Netlify, using a custom theme (`themes/suchet`) and managed via Decap CMS (formerly Netlify CMS) (`static/admin/`).
 
 ## Running locally
 
@@ -21,7 +21,7 @@ The site is built with Hugo — no npm or build step is required. Hugo must be i
 - `content/` — top-level pages: `_index.md`, `presentation.md`, `contact.md`, `confidentialite.md`
 - `themes/suchet/layouts/` — all HTML templates
 - `static/img/upload/` — project images, stored as normal Git files (no Git LFS)
-- `static/admin/` — Netlify CMS configuration and UI
+- `static/admin/` — Decap CMS configuration and UI
 
 ## Content (post) front matter
 
@@ -58,6 +58,6 @@ The custom theme (`themes/suchet`) is self-contained:
 
 The partial `layouts/partials/image-url.html` gives the image URLs. In production, it gives a Netlify Image CDN URL (`/.netlify/images?url=…&w=660`) that resizes the image. With `hugo server`, it gives the original image path, which loads at full size.
 
-## Netlify CMS
+## Decap CMS
 
-The CMS lives at `/admin` and uses `git-gateway` against the `master` branch. Field definitions in `static/admin/config.yml` must stay in sync with the front matter structure consumed by the Hugo templates.
+The CMS lives at `/admin` and uses `git-gateway` with Netlify Identity against the `master` branch. Field definitions in `static/admin/config.yml` must stay in sync with the front matter structure consumed by the Hugo templates.

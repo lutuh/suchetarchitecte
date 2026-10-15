@@ -7,8 +7,8 @@ backend:
 media_folder: "static/img/upload"
 public_folder: "/img/upload"
 
-# https://www.netlifycms.org/docs/add-to-your-site/#collections
-# https://www.netlifycms.org/docs/configuration-options/#collections
+# https://decapcms.org/docs/collection-folder/
+# https://decapcms.org/docs/configuration-options/
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
