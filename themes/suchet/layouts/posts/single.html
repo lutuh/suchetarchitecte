@@ -11,8 +11,8 @@
                     {{ $path := print "static/" . }}
                     <figure class="image margin-bottom-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
                         <!-- https://github.com/dimsemenov/PhotoSwipe/issues/741#issuecomment-731756125 -->
-                        <a href="{{.}}?nf_resize=fit&w=1920" itemprop="contentUrl" class="image-link-class">
-                            <img src="{{.}}?nf_resize=fit&w=660" itemprop="thumbnail" alt="{{.}}" />
+                        <a href="{{ partial "image-url" (dict "src" . "w" 1920) }}" itemprop="contentUrl" class="image-link-class">
+                            <img src="{{ partial "image-url" (dict "src" . "w" 660) }}" itemprop="thumbnail" alt="{{.}}" />
                         </a>
                     </figure>
                     {{ end }}

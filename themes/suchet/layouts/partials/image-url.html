@@ -1,0 +1,6 @@
+{{/* Resized image URL via Netlify Image CDN. Locally (hugo server) the original image is used. */}}
+{{ $url := .src }}
+{{ if hugo.IsProduction }}
+  {{ $url = printf "/.netlify/images?url=%s&w=%d" (urlquery .src) .w }}
+{{ end }}
+{{ return $url }}

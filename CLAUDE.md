@@ -20,7 +20,7 @@ The site is built with Hugo — no npm or build step is required. Hugo must be i
 - `content/posts/` — one Markdown file per architectural project (the portfolio entries)
 - `content/` — top-level pages: `_index.md`, `presentation.md`, `contact.md`, `confidentialite.md`
 - `themes/suchet/layouts/` — all HTML templates
-- `static/img/upload/` — project images, tracked via **Git LFS** (Netlify Large Media)
+- `static/img/upload/` — project images, stored as normal Git files (no Git LFS)
 - `static/admin/` — Netlify CMS configuration and UI
 
 ## Content (post) front matter
@@ -43,9 +43,9 @@ featured_image_id: 0      # index into images[] used as the homepage thumbnail
 metadesc: "…"             # SEO meta description
 ```
 
-## Images and Git LFS
+## Images
 
-Images uploaded under `static/img/upload/` are stored via Git LFS (Netlify Large Media). The LFS endpoint is configured in `.lfsconfig`. Always use `git lfs` when adding new images to that folder; do not commit raw binaries directly.
+Images in `static/img/upload/` are normal Git files. The site does not use Git LFS or Netlify Large Media.
 
 ## Theme architecture
 
@@ -56,7 +56,7 @@ The custom theme (`themes/suchet`) is self-contained:
 - `layouts/posts/single.html` — project detail page: PhotoSwipe image gallery + project metadata
 - `layouts/partials/` — `head.html`, `header.html`, `footer.html`
 
-Images on the live site are resized on-the-fly by Netlify's image CDN via query params (`?nf_resize=fit&w=660`). This only works in production; locally images load at full size.
+The partial `layouts/partials/image-url.html` gives the image URLs. In production, it gives a Netlify Image CDN URL (`/.netlify/images?url=…&w=660`) that resizes the image. With `hugo server`, it gives the original image path, which loads at full size.
 
 ## Netlify CMS
 
