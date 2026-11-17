@@ -20,6 +20,9 @@ images:
   - /img/upload/dsc_0288_m.jpg
   - /img/upload/dsc_0323_m_1.jpg
   - /img/upload/dsc_0285_m.jpg
+  - /img/upload/img_0522_nb.jpg
+  - /img/upload/1784707869434_nb.jpg
+  - /img/upload/1783514839765_nb.jpg
 featured_image_id: 0
 ---
 La présente opération consiste en la création de deux préaux et à l’aménagement de la cour au sud de la parcelle du collège Irène Joliot-Curie à Wittenheim.\
