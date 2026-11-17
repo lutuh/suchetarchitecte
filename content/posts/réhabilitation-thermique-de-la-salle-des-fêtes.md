@@ -10,13 +10,13 @@ builder:
   - SIB-Études
   - Terranergie
   - Fluid’it
-  - Ingémansson
+  - Ingemansson
 period: 2024 - 2025
 surface: 609m2
-cost: 650 000 €HT
+cost: 672 000 €HT
 images:
-  - /img/upload/image12.jpg
-  - /img/upload/image10.jpg
+  - /img/upload/dsc_0225_m.jpg
+  - /img/upload/dsc_0269_m.jpg
   - /img/upload/img_20240410_142907_nb.jpg
   - /img/upload/img_20240613_135418_nb.jpg
 featured_image_id: 0
