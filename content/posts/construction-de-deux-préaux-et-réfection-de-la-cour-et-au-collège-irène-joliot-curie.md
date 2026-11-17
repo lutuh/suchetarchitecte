@@ -1,5 +1,5 @@
 ---
-publishdate: 2025-02-14T12:04:35.581Z
+publishdate: 2026-11-17T15:14:00.000+01:00
 title: 21IJC
 description: Construction de deux préaux et réfection de la cour au collège
   Irène Joliot-Curie
@@ -11,13 +11,15 @@ builder:
   - FLUID'IT
   - AMS Ingénierie
   - Philo SOPHIE
-  - Ingémansson
-period: 2024-2026
+  - Ingemansson
+period: Livré en octobre 2026
 surface: 205m2 et 325m2
 cost: 519 875 €HT
 images:
-  - /img/upload/image6.jpg
-  - /img/upload/image5.jpg
+  - /img/upload/dsc_0304_m_2.jpg
+  - /img/upload/dsc_0288_m.jpg
+  - /img/upload/dsc_0323_m_1.jpg
+  - /img/upload/dsc_0285_m.jpg
 featured_image_id: 0
 ---
 La présente opération consiste en la création de deux préaux et à l’aménagement de la cour au sud de la parcelle du collège Irène Joliot-Curie à Wittenheim.\
