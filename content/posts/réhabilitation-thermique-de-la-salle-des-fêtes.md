@@ -1,5 +1,5 @@
 ---
-publishdate: 2025-04-07T12:00:34.945Z
+publishdate: 2026-11-17T15:06:00.000+01:00
 title: KALT
 description: Réhabilitation thermique de la salle des fêtes
 location: Kaltenhouse (67)
