@@ -6,7 +6,7 @@ location: Kaltenhouse (67)
 client: Commune de Kaltenhouse
 builder:
   - Atelier aSHe (mandataire)
-  - RB Eco
+  - RB Economie
   - SIB-Études
   - Terranergie
   - Fluid’it
@@ -24,4 +24,4 @@ images:
   - /img/upload/img_20240613_135418_nb.jpg
 featured_image_id: 0
 ---
-La rénovation de la partie ancienne de la salle s'est fait à travers trois approche : énergétique, acoustique et esthétique. Cette salle des fêtes est située au cœur du village et la mise au normes acoustique permet de pérenniser son usage. La rénovation a permis de révéler la charpente métallique existante de 1950 et de la mettre en valeur. Le traitement acoustique des parois joue son rôle tout en apportant une matérialité contemporaine affirmée.
+Larénovation de la partie ancienne de la salle s'est faite à travers troisapproche : énergétique, acoustique et esthétique. La mise aux normes acoustiquede la salle a permis de pérenniser et de maintenir ses usages au cœur de lacommune. La rénovation a révéler la charpente métallique existante de 1950 etla mise en valeur. Le traitement acoustique des parois joue son rôle tout enapportant une matérialité contemporaine affirmée.
